@@ -1,0 +1,1841 @@
+{
+  "marketbeat": {
+    "total_articles": 579,
+    "Finance": {
+      "count": 365,
+      "percentage": 0.6303972366148531
+    },
+    "Medical": {
+      "count": 54,
+      "percentage": 0.09326424870466321
+    },
+    "India": {
+      "count": 51,
+      "percentage": 0.08808290155440414
+    },
+    "US Politics": {
+      "count": 48,
+      "percentage": 0.08290155440414508
+    },
+    "Automotive": {
+      "count": 28,
+      "percentage": 0.04835924006908463
+    },
+    "Schools": {
+      "count": 18,
+      "percentage": 0.031088082901554404
+    },
+    "Airlines": {
+      "count": 10,
+      "percentage": 0.017271157167530225
+    },
+    "Football": {
+      "count": 4,
+      "percentage": 0.0069084628670120895
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.0017271157167530224
+    }
+  },
+  "edition.cnn": {
+    "total_articles": 7249,
+    "US Politics": {
+      "count": 2332,
+      "percentage": 0.3216995447647951
+    },
+    "Medical": {
+      "count": 1965,
+      "percentage": 0.2710718719823424
+    },
+    "Schools": {
+      "count": 1104,
+      "percentage": 0.15229686853359084
+    },
+    "Finance": {
+      "count": 597,
+      "percentage": 0.08235618706028418
+    },
+    "Football": {
+      "count": 557,
+      "percentage": 0.07683818457718306
+    },
+    "India": {
+      "count": 247,
+      "percentage": 0.0340736653331494
+    },
+    "Airlines": {
+      "count": 228,
+      "percentage": 0.03145261415367637
+    },
+    "Automotive": {
+      "count": 141,
+      "percentage": 0.01945095875293144
+    },
+    "Hollywood": {
+      "count": 67,
+      "percentage": 0.009242654159194372
+    },
+    "Europe": {
+      "count": 6,
+      "percentage": 0.0008277003724651677
+    },
+    "Farming": {
+      "count": 4,
+      "percentage": 0.0005518002483101117
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.00013795006207752792
+    }
+  },
+  "cnn": {
+    "total_articles": 12044,
+    "US Politics": {
+      "count": 3606,
+      "percentage": 0.29940219196280304
+    },
+    "Medical": {
+      "count": 3288,
+      "percentage": 0.27299900365327134
+    },
+    "Schools": {
+      "count": 1854,
+      "percentage": 0.15393556957821322
+    },
+    "Football": {
+      "count": 1122,
+      "percentage": 0.09315841912985719
+    },
+    "Finance": {
+      "count": 1021,
+      "percentage": 0.08477250083028894
+    },
+    "India": {
+      "count": 380,
+      "percentage": 0.03155097974094985
+    },
+    "Airlines": {
+      "count": 345,
+      "percentage": 0.02864496844902026
+    },
+    "Automotive": {
+      "count": 285,
+      "percentage": 0.023663234805712387
+    },
+    "Hollywood": {
+      "count": 119,
+      "percentage": 0.00988043839256061
+    },
+    "Farming": {
+      "count": 13,
+      "percentage": 0.0010793756227167055
+    },
+    "Europe": {
+      "count": 9,
+      "percentage": 0.0007472600464961806
+    },
+    "Businesses": {
+      "count": 2,
+      "percentage": 0.00016605778811026238
+    }
+  },
+  "theguardian": {
+    "total_articles": 14249,
+    "Schools": {
+      "count": 7319,
+      "percentage": 0.513650080707418
+    },
+    "US Politics": {
+      "count": 1891,
+      "percentage": 0.13271106744332936
+    },
+    "Football": {
+      "count": 1647,
+      "percentage": 0.11558705874096428
+    },
+    "Medical": {
+      "count": 1238,
+      "percentage": 0.08688329005544249
+    },
+    "Finance": {
+      "count": 834,
+      "percentage": 0.058530423187592114
+    },
+    "India": {
+      "count": 723,
+      "percentage": 0.050740402835286684
+    },
+    "Airlines": {
+      "count": 436,
+      "percentage": 0.030598638500947434
+    },
+    "Automotive": {
+      "count": 63,
+      "percentage": 0.004421362902659836
+    },
+    "Hollywood": {
+      "count": 53,
+      "percentage": 0.003719559267317005
+    },
+    "Europe": {
+      "count": 36,
+      "percentage": 0.002526493087234192
+    },
+    "Businesses": {
+      "count": 6,
+      "percentage": 0.00042108218120569864
+    },
+    "Farming": {
+      "count": 3,
+      "percentage": 0.00021054109060284932
+    }
+  },
+  "nature": {
+    "total_articles": 622,
+    "Schools": {
+      "count": 312,
+      "percentage": 0.5016077170418006
+    },
+    "Medical": {
+      "count": 239,
+      "percentage": 0.3842443729903537
+    },
+    "US Politics": {
+      "count": 41,
+      "percentage": 0.06591639871382636
+    },
+    "Finance": {
+      "count": 22,
+      "percentage": 0.03536977491961415
+    },
+    "India": {
+      "count": 5,
+      "percentage": 0.008038585209003215
+    },
+    "Businesses": {
+      "count": 2,
+      "percentage": 0.003215434083601286
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.001607717041800643
+    }
+  },
+  "scientificamerican": {
+    "total_articles": 497,
+    "Medical": {
+      "count": 263,
+      "percentage": 0.5291750503018109
+    },
+    "Schools": {
+      "count": 148,
+      "percentage": 0.2977867203219316
+    },
+    "US Politics": {
+      "count": 66,
+      "percentage": 0.13279678068410464
+    },
+    "Finance": {
+      "count": 9,
+      "percentage": 0.018108651911468814
+    },
+    "India": {
+      "count": 4,
+      "percentage": 0.008048289738430584
+    },
+    "Automotive": {
+      "count": 3,
+      "percentage": 0.006036217303822937
+    },
+    "Airlines": {
+      "count": 2,
+      "percentage": 0.004024144869215292
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.002012072434607646
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.002012072434607646
+    }
+  },
+  "nytimes": {
+    "total_articles": 13094,
+    "Medical": {
+      "count": 4622,
+      "percentage": 0.35298610050404766
+    },
+    "US Politics": {
+      "count": 3192,
+      "percentage": 0.24377577516419735
+    },
+    "Schools": {
+      "count": 2520,
+      "percentage": 0.1924545593401558
+    },
+    "Football": {
+      "count": 952,
+      "percentage": 0.07270505575072553
+    },
+    "Finance": {
+      "count": 663,
+      "percentage": 0.05063387811211242
+    },
+    "India": {
+      "count": 387,
+      "percentage": 0.0295555216129525
+    },
+    "Europe": {
+      "count": 337,
+      "percentage": 0.025736978768901787
+    },
+    "Airlines": {
+      "count": 231,
+      "percentage": 0.017641667939514282
+    },
+    "Automotive": {
+      "count": 123,
+      "percentage": 0.009393615396364748
+    },
+    "Hollywood": {
+      "count": 57,
+      "percentage": 0.00435313884221781
+    },
+    "Businesses": {
+      "count": 7,
+      "percentage": 0.0005345959981670994
+    },
+    "Farming": {
+      "count": 3,
+      "percentage": 0.00022911257064304262
+    }
+  },
+  "express": {
+    "total_articles": 22982,
+    "Schools": {
+      "count": 9388,
+      "percentage": 0.4084936036898442
+    },
+    "Football": {
+      "count": 8566,
+      "percentage": 0.37272648159429117
+    },
+    "Medical": {
+      "count": 1739,
+      "percentage": 0.07566791401966756
+    },
+    "US Politics": {
+      "count": 996,
+      "percentage": 0.04333826472891828
+    },
+    "Finance": {
+      "count": 966,
+      "percentage": 0.04203289530937255
+    },
+    "Airlines": {
+      "count": 632,
+      "percentage": 0.027499782438430077
+    },
+    "India": {
+      "count": 622,
+      "percentage": 0.027064659298581498
+    },
+    "Europe": {
+      "count": 31,
+      "percentage": 0.0013488817335305893
+    },
+    "Hollywood": {
+      "count": 28,
+      "percentage": 0.001218344791576016
+    },
+    "Automotive": {
+      "count": 12,
+      "percentage": 0.0005221477678182926
+    },
+    "Businesses": {
+      "count": 2,
+      "percentage": 8.702462796971542e-05
+    }
+  },
+  "theconversation": {
+    "total_articles": 4014,
+    "Schools": {
+      "count": 2088,
+      "percentage": 0.5201793721973094
+    },
+    "Medical": {
+      "count": 763,
+      "percentage": 0.19008470353761833
+    },
+    "US Politics": {
+      "count": 581,
+      "percentage": 0.1447433981066268
+    },
+    "Finance": {
+      "count": 253,
+      "percentage": 0.0630293971101146
+    },
+    "Europe": {
+      "count": 140,
+      "percentage": 0.03487792725460887
+    },
+    "Airlines": {
+      "count": 51,
+      "percentage": 0.012705530642750373
+    },
+    "Football": {
+      "count": 40,
+      "percentage": 0.009965122072745391
+    },
+    "India": {
+      "count": 34,
+      "percentage": 0.008470353761833582
+    },
+    "Farming": {
+      "count": 33,
+      "percentage": 0.008221225710014948
+    },
+    "Businesses": {
+      "count": 16,
+      "percentage": 0.003986048829098156
+    },
+    "Automotive": {
+      "count": 9,
+      "percentage": 0.002242152466367713
+    },
+    "Hollywood": {
+      "count": 6,
+      "percentage": 0.0014947683109118087
+    }
+  },
+  "cnbc": {
+    "total_articles": 15852,
+    "Finance": {
+      "count": 6835,
+      "percentage": 0.4311758768609639
+    },
+    "Medical": {
+      "count": 2255,
+      "percentage": 0.14225334342669696
+    },
+    "Automotive": {
+      "count": 1552,
+      "percentage": 0.09790562705021448
+    },
+    "US Politics": {
+      "count": 1527,
+      "percentage": 0.09632853898561695
+    },
+    "India": {
+      "count": 1150,
+      "percentage": 0.07254605097148625
+    },
+    "Schools": {
+      "count": 781,
+      "percentage": 0.049268231138026745
+    },
+    "Airlines": {
+      "count": 761,
+      "percentage": 0.048006560686348725
+    },
+    "Hollywood": {
+      "count": 600,
+      "percentage": 0.03785011355034065
+    },
+    "Football": {
+      "count": 228,
+      "percentage": 0.014383043149129448
+    },
+    "Europe": {
+      "count": 91,
+      "percentage": 0.005740600555134999
+    },
+    "Businesses": {
+      "count": 37,
+      "percentage": 0.0023340903356043404
+    },
+    "Farming": {
+      "count": 35,
+      "percentage": 0.002207923290436538
+    }
+  },
+  "bbc": {
+    "total_articles": 1252,
+    "Schools": {
+      "count": 701,
+      "percentage": 0.5599041533546326
+    },
+    "Medical": {
+      "count": 124,
+      "percentage": 0.09904153354632587
+    },
+    "India": {
+      "count": 93,
+      "percentage": 0.0742811501597444
+    },
+    "Finance": {
+      "count": 91,
+      "percentage": 0.07268370607028754
+    },
+    "US Politics": {
+      "count": 91,
+      "percentage": 0.07268370607028754
+    },
+    "Airlines": {
+      "count": 65,
+      "percentage": 0.051916932907348244
+    },
+    "Football": {
+      "count": 63,
+      "percentage": 0.050319488817891375
+    },
+    "Automotive": {
+      "count": 17,
+      "percentage": 0.013578274760383386
+    },
+    "Hollywood": {
+      "count": 6,
+      "percentage": 0.004792332268370607
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.0007987220447284345
+    }
+  },
+  "marketscreener": {
+    "total_articles": 56484,
+    "Businesses": {
+      "count": 26988,
+      "percentage": 0.4777990227321011
+    },
+    "Finance": {
+      "count": 10831,
+      "percentage": 0.19175341689682035
+    },
+    "Europe": {
+      "count": 7360,
+      "percentage": 0.13030238651653567
+    },
+    "Medical": {
+      "count": 3219,
+      "percentage": 0.05698958997238156
+    },
+    "Automotive": {
+      "count": 2285,
+      "percentage": 0.04045393385737554
+    },
+    "Airlines": {
+      "count": 1650,
+      "percentage": 0.02921181219460378
+    },
+    "Schools": {
+      "count": 1445,
+      "percentage": 0.025582465831031798
+    },
+    "US Politics": {
+      "count": 911,
+      "percentage": 0.016128461157141845
+    },
+    "India": {
+      "count": 759,
+      "percentage": 0.013437433609517739
+    },
+    "Hollywood": {
+      "count": 648,
+      "percentage": 0.011472275334608031
+    },
+    "Football": {
+      "count": 305,
+      "percentage": 0.0053997592238510025
+    },
+    "Farming": {
+      "count": 83,
+      "percentage": 0.001469442674031584
+    }
+  },
+  "scmp": {
+    "total_articles": 1018,
+    "Finance": {
+      "count": 195,
+      "percentage": 0.19155206286836934
+    },
+    "Airlines": {
+      "count": 182,
+      "percentage": 0.1787819253438114
+    },
+    "Schools": {
+      "count": 163,
+      "percentage": 0.16011787819253437
+    },
+    "India": {
+      "count": 145,
+      "percentage": 0.14243614931237722
+    },
+    "Medical": {
+      "count": 120,
+      "percentage": 0.11787819253438114
+    },
+    "US Politics": {
+      "count": 112,
+      "percentage": 0.1100196463654224
+    },
+    "Football": {
+      "count": 59,
+      "percentage": 0.05795677799607073
+    },
+    "Automotive": {
+      "count": 25,
+      "percentage": 0.02455795677799607
+    },
+    "Hollywood": {
+      "count": 7,
+      "percentage": 0.0068762278978389
+    },
+    "Farming": {
+      "count": 4,
+      "percentage": 0.003929273084479371
+    },
+    "Businesses": {
+      "count": 4,
+      "percentage": 0.003929273084479371
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.0019646365422396855
+    }
+  },
+  "reuters": {
+    "total_articles": 23866,
+    "Finance": {
+      "count": 7059,
+      "percentage": 0.2957764183357077
+    },
+    "India": {
+      "count": 4115,
+      "percentage": 0.17242101734685325
+    },
+    "US Politics": {
+      "count": 2832,
+      "percentage": 0.1186625324729741
+    },
+    "Medical": {
+      "count": 2096,
+      "percentage": 0.0878236822257605
+    },
+    "Airlines": {
+      "count": 1896,
+      "percentage": 0.07944355987597419
+    },
+    "Schools": {
+      "count": 1857,
+      "percentage": 0.07780943601776585
+    },
+    "Automotive": {
+      "count": 1403,
+      "percentage": 0.05878655828375094
+    },
+    "Hollywood": {
+      "count": 1002,
+      "percentage": 0.0419844129724294
+    },
+    "Football": {
+      "count": 782,
+      "percentage": 0.03276627838766446
+    },
+    "Europe": {
+      "count": 592,
+      "percentage": 0.024805162155367468
+    },
+    "Farming": {
+      "count": 139,
+      "percentage": 0.005824185033101483
+    },
+    "Businesses": {
+      "count": 93,
+      "percentage": 0.0038967568926506326
+    }
+  },
+  "finance.yahoo": {
+    "total_articles": 85709,
+    "Finance": {
+      "count": 24571,
+      "percentage": 0.28667934522628896
+    },
+    "Football": {
+      "count": 12773,
+      "percentage": 0.1490275233639408
+    },
+    "Schools": {
+      "count": 10884,
+      "percentage": 0.12698783091623983
+    },
+    "Businesses": {
+      "count": 9891,
+      "percentage": 0.1154021164638486
+    },
+    "US Politics": {
+      "count": 9145,
+      "percentage": 0.10669824639186083
+    },
+    "Medical": {
+      "count": 6863,
+      "percentage": 0.08007327118505642
+    },
+    "India": {
+      "count": 4656,
+      "percentage": 0.05432334993991296
+    },
+    "Airlines": {
+      "count": 2675,
+      "percentage": 0.031210257965907897
+    },
+    "Automotive": {
+      "count": 2235,
+      "percentage": 0.02607660805749688
+    },
+    "Hollywood": {
+      "count": 1111,
+      "percentage": 0.012962466018737823
+    },
+    "Europe": {
+      "count": 853,
+      "percentage": 0.009952280390624088
+    },
+    "Farming": {
+      "count": 52,
+      "percentage": 0.0006067040800849386
+    }
+  },
+  "marketwatch": {
+    "total_articles": 14288,
+    "Finance": {
+      "count": 6564,
+      "percentage": 0.45940649496080627
+    },
+    "Automotive": {
+      "count": 2047,
+      "percentage": 0.14326707726763718
+    },
+    "Medical": {
+      "count": 1701,
+      "percentage": 0.11905095184770437
+    },
+    "US Politics": {
+      "count": 1553,
+      "percentage": 0.10869260918253079
+    },
+    "Schools": {
+      "count": 984,
+      "percentage": 0.06886898096304592
+    },
+    "Hollywood": {
+      "count": 349,
+      "percentage": 0.02442609182530795
+    },
+    "India": {
+      "count": 330,
+      "percentage": 0.023096304591265396
+    },
+    "Airlines": {
+      "count": 321,
+      "percentage": 0.022466405375139976
+    },
+    "Football": {
+      "count": 218,
+      "percentage": 0.015257558790593505
+    },
+    "Businesses": {
+      "count": 137,
+      "percentage": 0.009588465845464725
+    },
+    "Europe": {
+      "count": 75,
+      "percentage": 0.0052491601343785
+    },
+    "Farming": {
+      "count": 9,
+      "percentage": 0.0006298992161254199
+    }
+  },
+  "theverge": {
+    "total_articles": 1749,
+    "Finance": {
+      "count": 569,
+      "percentage": 0.32532875929102345
+    },
+    "Schools": {
+      "count": 363,
+      "percentage": 0.20754716981132076
+    },
+    "Medical": {
+      "count": 280,
+      "percentage": 0.16009148084619781
+    },
+    "US Politics": {
+      "count": 216,
+      "percentage": 0.1234991423670669
+    },
+    "Football": {
+      "count": 124,
+      "percentage": 0.07089765580331618
+    },
+    "Automotive": {
+      "count": 105,
+      "percentage": 0.060034305317324184
+    },
+    "Hollywood": {
+      "count": 38,
+      "percentage": 0.02172670097198399
+    },
+    "Airlines": {
+      "count": 27,
+      "percentage": 0.015437392795883362
+    },
+    "India": {
+      "count": 19,
+      "percentage": 0.010863350485991996
+    },
+    "Europe": {
+      "count": 8,
+      "percentage": 0.004574042309891366
+    }
+  },
+  "newatlas": {
+    "total_articles": 155,
+    "Medical": {
+      "count": 57,
+      "percentage": 0.36774193548387096
+    },
+    "Schools": {
+      "count": 50,
+      "percentage": 0.3225806451612903
+    },
+    "Finance": {
+      "count": 29,
+      "percentage": 0.1870967741935484
+    },
+    "Football": {
+      "count": 7,
+      "percentage": 0.04516129032258064
+    },
+    "Automotive": {
+      "count": 4,
+      "percentage": 0.025806451612903226
+    },
+    "US Politics": {
+      "count": 4,
+      "percentage": 0.025806451612903226
+    },
+    "India": {
+      "count": 2,
+      "percentage": 0.012903225806451613
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.0064516129032258064
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.0064516129032258064
+    }
+  },
+  "globalbankingandfinance": {
+    "total_articles": 3510,
+    "Businesses": {
+      "count": 1747,
+      "percentage": 0.49772079772079775
+    },
+    "Finance": {
+      "count": 789,
+      "percentage": 0.2247863247863248
+    },
+    "Medical": {
+      "count": 518,
+      "percentage": 0.1475783475783476
+    },
+    "Schools": {
+      "count": 214,
+      "percentage": 0.06096866096866097
+    },
+    "Europe": {
+      "count": 94,
+      "percentage": 0.02678062678062678
+    },
+    "US Politics": {
+      "count": 55,
+      "percentage": 0.01566951566951567
+    },
+    "Automotive": {
+      "count": 34,
+      "percentage": 0.009686609686609686
+    },
+    "Airlines": {
+      "count": 31,
+      "percentage": 0.008831908831908831
+    },
+    "India": {
+      "count": 16,
+      "percentage": 0.004558404558404558
+    },
+    "Football": {
+      "count": 11,
+      "percentage": 0.0031339031339031338
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.0002849002849002849
+    }
+  },
+  "sciencedaily": {
+    "total_articles": 679,
+    "Medical": {
+      "count": 505,
+      "percentage": 0.7437407952871871
+    },
+    "Schools": {
+      "count": 137,
+      "percentage": 0.20176730486008837
+    },
+    "Finance": {
+      "count": 17,
+      "percentage": 0.025036818851251842
+    },
+    "US Politics": {
+      "count": 9,
+      "percentage": 0.013254786450662739
+    },
+    "India": {
+      "count": 4,
+      "percentage": 0.005891016200294551
+    },
+    "Businesses": {
+      "count": 4,
+      "percentage": 0.005891016200294551
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.0014727540500736377
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.0014727540500736377
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.0014727540500736377
+    }
+  },
+  "theatlantic": {
+    "total_articles": 861,
+    "Schools": {
+      "count": 300,
+      "percentage": 0.34843205574912894
+    },
+    "US Politics": {
+      "count": 290,
+      "percentage": 0.33681765389082463
+    },
+    "Medical": {
+      "count": 210,
+      "percentage": 0.24390243902439024
+    },
+    "Football": {
+      "count": 35,
+      "percentage": 0.04065040650406504
+    },
+    "Finance": {
+      "count": 14,
+      "percentage": 0.016260162601626018
+    },
+    "India": {
+      "count": 7,
+      "percentage": 0.008130081300813009
+    },
+    "Hollywood": {
+      "count": 3,
+      "percentage": 0.003484320557491289
+    },
+    "Airlines": {
+      "count": 2,
+      "percentage": 0.0023228803716608595
+    }
+  },
+  "independent": {
+    "total_articles": 222,
+    "Medical": {
+      "count": 97,
+      "percentage": 0.4369369369369369
+    },
+    "Schools": {
+      "count": 85,
+      "percentage": 0.38288288288288286
+    },
+    "US Politics": {
+      "count": 15,
+      "percentage": 0.06756756756756757
+    },
+    "India": {
+      "count": 6,
+      "percentage": 0.02702702702702703
+    },
+    "Europe": {
+      "count": 5,
+      "percentage": 0.02252252252252252
+    },
+    "Football": {
+      "count": 5,
+      "percentage": 0.02252252252252252
+    },
+    "Finance": {
+      "count": 4,
+      "percentage": 0.018018018018018018
+    },
+    "Businesses": {
+      "count": 3,
+      "percentage": 0.013513513513513514
+    },
+    "Automotive": {
+      "count": 2,
+      "percentage": 0.009009009009009009
+    }
+  },
+  "fiercebiotech": {
+    "total_articles": 206,
+    "Medical": {
+      "count": 168,
+      "percentage": 0.8155339805825242
+    },
+    "Finance": {
+      "count": 20,
+      "percentage": 0.0970873786407767
+    },
+    "Schools": {
+      "count": 8,
+      "percentage": 0.038834951456310676
+    },
+    "Businesses": {
+      "count": 4,
+      "percentage": 0.019417475728155338
+    },
+    "Automotive": {
+      "count": 2,
+      "percentage": 0.009708737864077669
+    },
+    "US Politics": {
+      "count": 2,
+      "percentage": 0.009708737864077669
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.0048543689320388345
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.0048543689320388345
+    }
+  },
+  "techcrunch": {
+    "total_articles": 715,
+    "Finance": {
+      "count": 362,
+      "percentage": 0.5062937062937063
+    },
+    "Medical": {
+      "count": 129,
+      "percentage": 0.18041958041958042
+    },
+    "Schools": {
+      "count": 118,
+      "percentage": 0.16503496503496504
+    },
+    "US Politics": {
+      "count": 38,
+      "percentage": 0.05314685314685315
+    },
+    "Automotive": {
+      "count": 25,
+      "percentage": 0.03496503496503497
+    },
+    "India": {
+      "count": 15,
+      "percentage": 0.02097902097902098
+    },
+    "Football": {
+      "count": 11,
+      "percentage": 0.015384615384615385
+    },
+    "Airlines": {
+      "count": 10,
+      "percentage": 0.013986013986013986
+    },
+    "Hollywood": {
+      "count": 5,
+      "percentage": 0.006993006993006993
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.002797202797202797
+    }
+  },
+  "venturebeat": {
+    "total_articles": 871,
+    "Finance": {
+      "count": 600,
+      "percentage": 0.6888633754305397
+    },
+    "Schools": {
+      "count": 111,
+      "percentage": 0.12743972445464982
+    },
+    "Medical": {
+      "count": 62,
+      "percentage": 0.0711825487944891
+    },
+    "US Politics": {
+      "count": 43,
+      "percentage": 0.04936854190585534
+    },
+    "Football": {
+      "count": 27,
+      "percentage": 0.030998851894374284
+    },
+    "Automotive": {
+      "count": 16,
+      "percentage": 0.018369690011481057
+    },
+    "Businesses": {
+      "count": 5,
+      "percentage": 0.0057405281285878304
+    },
+    "India": {
+      "count": 2,
+      "percentage": 0.002296211251435132
+    },
+    "Airlines": {
+      "count": 2,
+      "percentage": 0.002296211251435132
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.002296211251435132
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.001148105625717566
+    }
+  },
+  "morningstar": {
+    "total_articles": 479,
+    "Finance": {
+      "count": 349,
+      "percentage": 0.7286012526096033
+    },
+    "Automotive": {
+      "count": 37,
+      "percentage": 0.07724425887265135
+    },
+    "Medical": {
+      "count": 26,
+      "percentage": 0.054279749478079335
+    },
+    "Schools": {
+      "count": 19,
+      "percentage": 0.03966597077244259
+    },
+    "Businesses": {
+      "count": 14,
+      "percentage": 0.029227557411273485
+    },
+    "US Politics": {
+      "count": 11,
+      "percentage": 0.022964509394572025
+    },
+    "Hollywood": {
+      "count": 7,
+      "percentage": 0.014613778705636743
+    },
+    "Airlines": {
+      "count": 7,
+      "percentage": 0.014613778705636743
+    },
+    "Europe": {
+      "count": 5,
+      "percentage": 0.010438413361169102
+    },
+    "India": {
+      "count": 3,
+      "percentage": 0.006263048016701462
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.0020876826722338203
+    }
+  },
+  "fool": {
+    "total_articles": 3154,
+    "Finance": {
+      "count": 2283,
+      "percentage": 0.7238427393785669
+    },
+    "Automotive": {
+      "count": 347,
+      "percentage": 0.11001902346227013
+    },
+    "Medical": {
+      "count": 220,
+      "percentage": 0.06975269499048826
+    },
+    "Airlines": {
+      "count": 99,
+      "percentage": 0.03138871274571972
+    },
+    "Schools": {
+      "count": 62,
+      "percentage": 0.019657577679137603
+    },
+    "US Politics": {
+      "count": 55,
+      "percentage": 0.017438173747622066
+    },
+    "Businesses": {
+      "count": 39,
+      "percentage": 0.012365250475586557
+    },
+    "Hollywood": {
+      "count": 28,
+      "percentage": 0.008877615726062143
+    },
+    "Football": {
+      "count": 15,
+      "percentage": 0.004755865567533291
+    },
+    "India": {
+      "count": 5,
+      "percentage": 0.0015852885225110971
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.0003170577045022194
+    }
+  },
+  "engadget": {
+    "total_articles": 181,
+    "Finance": {
+      "count": 76,
+      "percentage": 0.4198895027624309
+    },
+    "Schools": {
+      "count": 40,
+      "percentage": 0.22099447513812154
+    },
+    "Football": {
+      "count": 25,
+      "percentage": 0.13812154696132597
+    },
+    "Medical": {
+      "count": 16,
+      "percentage": 0.08839779005524862
+    },
+    "US Politics": {
+      "count": 12,
+      "percentage": 0.06629834254143646
+    },
+    "Automotive": {
+      "count": 9,
+      "percentage": 0.049723756906077346
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.011049723756906077
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.0055248618784530384
+    }
+  },
+  "newyorker": {
+    "total_articles": 461,
+    "US Politics": {
+      "count": 326,
+      "percentage": 0.7071583514099783
+    },
+    "Schools": {
+      "count": 89,
+      "percentage": 0.19305856832971802
+    },
+    "Medical": {
+      "count": 32,
+      "percentage": 0.06941431670281996
+    },
+    "Football": {
+      "count": 13,
+      "percentage": 0.028199566160520606
+    },
+    "Finance": {
+      "count": 1,
+      "percentage": 0.0021691973969631237
+    }
+  },
+  "inc": {
+    "total_articles": 838,
+    "Schools": {
+      "count": 412,
+      "percentage": 0.4916467780429594
+    },
+    "Finance": {
+      "count": 259,
+      "percentage": 0.30906921241050117
+    },
+    "Medical": {
+      "count": 71,
+      "percentage": 0.08472553699284009
+    },
+    "US Politics": {
+      "count": 64,
+      "percentage": 0.07637231503579953
+    },
+    "Football": {
+      "count": 10,
+      "percentage": 0.011933174224343675
+    },
+    "Airlines": {
+      "count": 9,
+      "percentage": 0.010739856801909307
+    },
+    "Automotive": {
+      "count": 7,
+      "percentage": 0.008353221957040573
+    },
+    "Businesses": {
+      "count": 6,
+      "percentage": 0.007159904534606206
+    }
+  },
+  "materialstoday": {
+    "total_articles": 71,
+    "Finance": {
+      "count": 23,
+      "percentage": 0.323943661971831
+    },
+    "Businesses": {
+      "count": 21,
+      "percentage": 0.29577464788732394
+    },
+    "Medical": {
+      "count": 12,
+      "percentage": 0.16901408450704225
+    },
+    "Europe": {
+      "count": 10,
+      "percentage": 0.14084507042253522
+    },
+    "Schools": {
+      "count": 3,
+      "percentage": 0.04225352112676056
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.014084507042253521
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.014084507042253521
+    }
+  },
+  "finsmes": {
+    "total_articles": 125,
+    "Finance": {
+      "count": 64,
+      "percentage": 0.512
+    },
+    "Medical": {
+      "count": 32,
+      "percentage": 0.256
+    },
+    "Schools": {
+      "count": 13,
+      "percentage": 0.104
+    },
+    "Businesses": {
+      "count": 8,
+      "percentage": 0.064
+    },
+    "Europe": {
+      "count": 3,
+      "percentage": 0.024
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.008
+    },
+    "US Politics": {
+      "count": 1,
+      "percentage": 0.008
+    },
+    "Automotive": {
+      "count": 1,
+      "percentage": 0.008
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.008
+    },
+    "India": {
+      "count": 1,
+      "percentage": 0.008
+    }
+  },
+  "news.crunchbase": {
+    "total_articles": 311,
+    "Finance": {
+      "count": 260,
+      "percentage": 0.8360128617363344
+    },
+    "Schools": {
+      "count": 26,
+      "percentage": 0.08360128617363344
+    },
+    "Medical": {
+      "count": 19,
+      "percentage": 0.06109324758842444
+    },
+    "Automotive": {
+      "count": 5,
+      "percentage": 0.01607717041800643
+    },
+    "US Politics": {
+      "count": 1,
+      "percentage": 0.003215434083601286
+    }
+  },
+  "bioworld": {
+    "total_articles": 237,
+    "Medical": {
+      "count": 176,
+      "percentage": 0.7426160337552743
+    },
+    "Businesses": {
+      "count": 26,
+      "percentage": 0.10970464135021098
+    },
+    "Finance": {
+      "count": 26,
+      "percentage": 0.10970464135021098
+    },
+    "Schools": {
+      "count": 8,
+      "percentage": 0.03375527426160337
+    },
+    "India": {
+      "count": 1,
+      "percentage": 0.004219409282700422
+    }
+  },
+  "computerweekly": {
+    "total_articles": 163,
+    "Schools": {
+      "count": 80,
+      "percentage": 0.49079754601226994
+    },
+    "Finance": {
+      "count": 61,
+      "percentage": 0.37423312883435583
+    },
+    "US Politics": {
+      "count": 10,
+      "percentage": 0.06134969325153374
+    },
+    "Airlines": {
+      "count": 4,
+      "percentage": 0.024539877300613498
+    },
+    "Businesses": {
+      "count": 3,
+      "percentage": 0.018404907975460124
+    },
+    "Medical": {
+      "count": 3,
+      "percentage": 0.018404907975460124
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.012269938650306749
+    }
+  },
+  "eenewsautomotive": {
+    "total_articles": 25,
+    "Finance": {
+      "count": 11,
+      "percentage": 0.44
+    },
+    "Automotive": {
+      "count": 7,
+      "percentage": 0.28
+    },
+    "Schools": {
+      "count": 4,
+      "percentage": 0.16
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.08
+    },
+    "Medical": {
+      "count": 1,
+      "percentage": 0.04
+    }
+  },
+  "eco-business": {
+    "total_articles": 146,
+    "Schools": {
+      "count": 76,
+      "percentage": 0.5205479452054794
+    },
+    "US Politics": {
+      "count": 29,
+      "percentage": 0.19863013698630136
+    },
+    "Finance": {
+      "count": 22,
+      "percentage": 0.1506849315068493
+    },
+    "Medical": {
+      "count": 7,
+      "percentage": 0.04794520547945205
+    },
+    "Businesses": {
+      "count": 6,
+      "percentage": 0.0410958904109589
+    },
+    "Europe": {
+      "count": 3,
+      "percentage": 0.02054794520547945
+    },
+    "Automotive": {
+      "count": 1,
+      "percentage": 0.00684931506849315
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.00684931506849315
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.00684931506849315
+    }
+  },
+  "japantimes": {
+    "total_articles": 180,
+    "Schools": {
+      "count": 48,
+      "percentage": 0.26666666666666666
+    },
+    "Football": {
+      "count": 46,
+      "percentage": 0.25555555555555554
+    },
+    "US Politics": {
+      "count": 42,
+      "percentage": 0.23333333333333334
+    },
+    "Finance": {
+      "count": 12,
+      "percentage": 0.06666666666666667
+    },
+    "India": {
+      "count": 11,
+      "percentage": 0.06111111111111111
+    },
+    "Medical": {
+      "count": 9,
+      "percentage": 0.05
+    },
+    "Airlines": {
+      "count": 7,
+      "percentage": 0.03888888888888889
+    },
+    "Automotive": {
+      "count": 2,
+      "percentage": 0.011111111111111112
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.005555555555555556
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.005555555555555556
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.005555555555555556
+    }
+  },
+  "thefintechtimes": {
+    "total_articles": 383,
+    "Finance": {
+      "count": 336,
+      "percentage": 0.8772845953002611
+    },
+    "Schools": {
+      "count": 33,
+      "percentage": 0.08616187989556136
+    },
+    "Europe": {
+      "count": 11,
+      "percentage": 0.028720626631853787
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.0026109660574412533
+    },
+    "US Politics": {
+      "count": 1,
+      "percentage": 0.0026109660574412533
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.0026109660574412533
+    }
+  },
+  "altassets": {
+    "total_articles": 22,
+    "Finance": {
+      "count": 14,
+      "percentage": 0.6363636363636364
+    },
+    "Automotive": {
+      "count": 2,
+      "percentage": 0.09090909090909091
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    },
+    "US Politics": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    },
+    "Medical": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    },
+    "Schools": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    },
+    "Europe": {
+      "count": 1,
+      "percentage": 0.045454545454545456
+    }
+  },
+  "esgclarity": {
+    "total_articles": 180,
+    "Finance": {
+      "count": 95,
+      "percentage": 0.5277777777777778
+    },
+    "Schools": {
+      "count": 60,
+      "percentage": 0.3333333333333333
+    },
+    "Europe": {
+      "count": 11,
+      "percentage": 0.06111111111111111
+    },
+    "US Politics": {
+      "count": 8,
+      "percentage": 0.044444444444444446
+    },
+    "Businesses": {
+      "count": 5,
+      "percentage": 0.027777777777777776
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.005555555555555556
+    }
+  },
+  "med-technews": {
+    "total_articles": 194,
+    "Schools": {
+      "count": 88,
+      "percentage": 0.4536082474226804
+    },
+    "Finance": {
+      "count": 47,
+      "percentage": 0.2422680412371134
+    },
+    "Medical": {
+      "count": 44,
+      "percentage": 0.2268041237113402
+    },
+    "Europe": {
+      "count": 7,
+      "percentage": 0.03608247422680412
+    },
+    "Businesses": {
+      "count": 7,
+      "percentage": 0.03608247422680412
+    },
+    "Football": {
+      "count": 1,
+      "percentage": 0.005154639175257732
+    }
+  },
+  "hbr": {
+    "total_articles": 265,
+    "Schools": {
+      "count": 154,
+      "percentage": 0.5811320754716981
+    },
+    "Finance": {
+      "count": 65,
+      "percentage": 0.24528301886792453
+    },
+    "Medical": {
+      "count": 28,
+      "percentage": 0.10566037735849057
+    },
+    "Europe": {
+      "count": 8,
+      "percentage": 0.03018867924528302
+    },
+    "US Politics": {
+      "count": 8,
+      "percentage": 0.03018867924528302
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.0037735849056603774
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.0037735849056603774
+    }
+  },
+  "just-auto": {
+    "total_articles": 24,
+    "Automotive": {
+      "count": 12,
+      "percentage": 0.5
+    },
+    "Finance": {
+      "count": 8,
+      "percentage": 0.3333333333333333
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.08333333333333333
+    },
+    "Schools": {
+      "count": 1,
+      "percentage": 0.041666666666666664
+    },
+    "Airlines": {
+      "count": 1,
+      "percentage": 0.041666666666666664
+    }
+  },
+  "emerj": {
+    "total_articles": 15,
+    "Finance": {
+      "count": 14,
+      "percentage": 0.9333333333333333
+    },
+    "Medical": {
+      "count": 1,
+      "percentage": 0.06666666666666667
+    }
+  },
+  "biospace": {
+    "total_articles": 12,
+    "Medical": {
+      "count": 11,
+      "percentage": 0.9166666666666666
+    },
+    "Businesses": {
+      "count": 1,
+      "percentage": 0.08333333333333333
+    }
+  },
+  "greenbiz": {
+    "total_articles": 189,
+    "Schools": {
+      "count": 71,
+      "percentage": 0.37566137566137564
+    },
+    "Finance": {
+      "count": 67,
+      "percentage": 0.3544973544973545
+    },
+    "US Politics": {
+      "count": 30,
+      "percentage": 0.15873015873015872
+    },
+    "Automotive": {
+      "count": 6,
+      "percentage": 0.031746031746031744
+    },
+    "Medical": {
+      "count": 6,
+      "percentage": 0.031746031746031744
+    },
+    "Businesses": {
+      "count": 5,
+      "percentage": 0.026455026455026454
+    },
+    "Europe": {
+      "count": 2,
+      "percentage": 0.010582010582010581
+    },
+    "Farming": {
+      "count": 1,
+      "percentage": 0.005291005291005291
+    },
+    "Hollywood": {
+      "count": 1,
+      "percentage": 0.005291005291005291
+    }
+  },
+  "autonews": {
+    "total_articles": 55,
+    "Automotive": {
+      "count": 34,
+      "percentage": 0.6181818181818182
+    },
+    "Finance": {
+      "count": 11,
+      "percentage": 0.2
+    },
+    "Football": {
+      "count": 4,
+      "percentage": 0.07272727272727272
+    },
+    "US Politics": {
+      "count": 4,
+      "percentage": 0.07272727272727272
+    },
+    "Airlines": {
+      "count": 2,
+      "percentage": 0.03636363636363636
+    }
+  },
+  "businessinsider": {
+    "total_articles": 2,
+    "Football": {
+      "count": 1,
+      "percentage": 0.5
+    },
+    "Medical": {
+      "count": 1,
+      "percentage": 0.5
+    }
+  }
+}
