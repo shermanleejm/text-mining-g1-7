@@ -5,6 +5,7 @@ from nltk.tag import pos_tag
 from nltk.chunk import conlltags2tree, tree2conlltags
 from nltk.stem import WordNetLemmatizer, SnowballStemmer
 from nltk.stem.porter import *
+from nltk.stem.lancaster import LancasterStemmer
 import nltk
 import gensim
 from gensim import corpora, models
@@ -19,13 +20,16 @@ stopwords = nltk.corpus.stopwords.words('english')
 lemmatizer = WordNetLemmatizer()
 stemmer = SnowballStemmer("english")
 p_stemmer = PorterStemmer()
+l_stemmer = LancasterStemmer()
 
 """ 
 REMINDER: TODO: Change this folder to your own folder containing the saved states
 You might need to increase the ram usage for your IDE to more than 4GB
+Download saved_state files here https://drive.google.com/file/d/1LdL85edkbR-YW2ZhTDnbRiblUgOnrXOU/view?usp=sharing
+You require a SMU account
 """
 SAVED_STATES_FOLDER = "/Users/shrmnl/Github/text-mining-g1-7/saved_states/"
-
+SAVED_FIGURES = "/Users/shrmnl/Github/text-mining-g1-7/plt_figures/"
 
 
 def getMajorTopic(arr):
@@ -79,14 +83,24 @@ def percentageMapper(arr):
         result[name] += tup[1]
     return result
 
-def clean_content_SLOW(row):
+## Lancaster stemmer very harsh not advisable
+def clean_content_FASTEST(row):
+    content = re.sub("\<(.*?)\>", " ", row['content'])
+    content = re.sub("[^0-9a-zA-Z\&]+", " ", content).split(" ")
+    processed = [l_stemmer.stem(lemmatizer.lemmatize(x.lower(), pos='v')) for x in content if x not in stopwords and x.strip() != ""]
+    return processed
+
+
+## Best and most trusted
+def clean_content_FAST(row):
     content = re.sub("\<(.*?)\>", " ", row['content'])
     content = re.sub("[^0-9a-zA-Z\&]+", " ", content).split(" ")
     processed = [stemmer.stem(lemmatizer.lemmatize(x.lower(), pos='v')) for x in content if x not in stopwords and x.strip() != ""]
     return processed
 
 
-def clean_content_FAST(row):
+## slower but more gentle 
+def clean_content_SLOW(row):
     ## remove html tags
     content = re.sub("\<(.*?)\>", " ", row['content'])
     ## remove non alphanumeric characters
@@ -95,111 +109,65 @@ def clean_content_FAST(row):
     return processed
 
 
+## load the process dataframe with lda topics added already
+# df = pd.read_json(f"{SAVED_STATES_FOLDER}df_processed_lda.json", orient="records")
+df = pd.read_csv("./covid19_articles_20200914.csv")
 
-try:
-    ## load the process dataframe with lda topics added already
-    df = pd.read_json(f"{SAVED_STATES_FOLDER}/df_processed_lda.json", orient="records")
-
-    ## load dictionary, corpus, and lda model
-    dictionary = corpora.Dictionary.load(f"{SAVED_STATES_FOLDER}dictionary")
-    corpus_tfidf = corpora.MmCorpus(f"{SAVED_STATES_FOLDER}corpus")
-    model_filepath = datapath(f"{SAVED_STATES_FOLDER}lda_model")
-    lda_model = models.LdaModel.load(model_filepath)
-
-except:
-    pass
-    ## Read the data
-    df = pd.read_csv("covid19_articles_20200914.csv")
-
-    ## Process the data
-    df["processed"] = df.apply(lambda row: clean_content_SLOW(row), axis=1)
-
-    ## create dictionary, corpora, and model
-    dictionary = corpora.Dictionary(df["processed"])
-    dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)
-    bow_corpus = [dictionary.doc2bow(doc) for doc in df["processed"]]
-    tfidf = models.TfidfModel(bow_corpus)
-    corpus_tfidf = tfidf[bow_corpus]
-    lda_model = models.LdaMulticore(corpus_tfidf, num_topics=14, id2word=dictionary, passes=2, workers=6, random_state=69)
-
-    ## Save corpora, dictionary and model
-    model_filepath = datapath(f"{SAVED_STATES_FOLDER}lda_model")
-    lda_model.save(model_filepath)
-    dictionary.save(f"{SAVED_STATES_FOLDER}dictionary")
-    corpora.MmCorpus.serialize(f"{SAVED_STATES_FOLDER}corpus", corpus_tfidf) 
-
-    ## add lda topics as a new column
-    for i, row in df.iterrows():
-    _, __, df.loc[i, "lda_topic"] = getMajorTopic(lda_model[corpus_tfidf[i]])
-
-    ## save the dataframe
-    result = df.to_json(orient="records")
-    json.dump(result, open(f"{SAVED_STATES_FOLDER}df.json", "w+"), indent=2)
-
-
-
-# Get distribution of topics and articles
-topic_distribution = {}
-for i in range(len(corpus_tfidf)):
-    val = lda_model[corpus_tfidf[i]]
-    topic, max_percentage, topic_name = getMajorTopic(val)
-    if topic_distribution.get(topic_name, False) == False:
-        topic_distribution[topic_name] = 0
-    topic_distribution[topic_name] += 1
-
-
-
-import matplotlib.pyplot as plt
-
-# Data to plot
-labels = topic_distribution.keys()
-sizes = topic_distribution.values()
-
-# Plot
-plt.pie(sizes,labels=labels)
-
-plt.axis('equal')
-plt.show()
-
-
-
-## Shishiong: This is bad
-# temp = {}
-# for index, row in df.iterrows():
-#     domain = row["domain"]
-#     content = row["processed"]
-#     if temp.get(domain, False) == False:
-#         temp[domain] = []
-#     temp[domain] += content 
-# domain_dict = {
-#     "domain_name": [],
-#     "processed": []
-# }
-# for k, v in temp.items():
-#     domain_dict["domain_name"].append(k)
-#     domain_dict["processed"].append(v)
-# domain_df = pd.DataFrame.from_dict(domain_dict)
-# domain_dictionary = corpora.Dictionary(domain_df["processed"])
-# domain_dictionary.filter_extremes(no_below=15, no_above=0.5, keep_n=100000)
-# domain_bow_corpus = [domain_dictionary.doc2bow(doc) for doc in domain_df["processed"]]
-# domain_tfidf = models.TfidfModel(domain_bow_corpus)
-# domain_corpus_tfidf = tfidf[domain_bow_corpus]
-# domain_lda_model = models.LdaMulticore(domain_corpus_tfidf, num_topics=15, id2word=domain_dictionary, passes=2, workers=6, random_state=69)
-
-
-
-
+## load dictionary, corpus, and lda model
 dictionary = corpora.Dictionary.load(f"{SAVED_STATES_FOLDER}dictionary")
 corpus_tfidf = corpora.MmCorpus(f"{SAVED_STATES_FOLDER}corpus")
 model_filepath = datapath(f"{SAVED_STATES_FOLDER}lda_model")
 lda_model = models.LdaModel.load(model_filepath)
+
+topic_name_id = {
+        0: "Medical",
+        1: "Airlines",
+        2: "Schools",
+        3: "Farming",
+        4: "Medical",
+        5: "Hollywood",
+        6: "Finance",
+        7: "India",
+        8: "Businesses",
+        9: "Football",
+        10: "Europe",
+        11: "US Politics",
+        12: "Finance",
+        13: "Automotive",
+    }
+
+## Get distribution per news agency per topic
+# news_agency_topic_distribution = {}
+# for i, row in df.iterrows():
+#     news_agency = row["domain"]
+#     val = lda_model[corpus_tfidf[i]]
+#     topic, max_percentage, topic_name = getMajorTopic(val)
+
+#     if news_agency_topic_distribution.get(news_agency, False) == False:
+#         news_agency_topic_distribution[news_agency] = {}
+    
+#     if news_agency_topic_distribution[news_agency].get(topic_name, False) == False:
+#         news_agency_topic_distribution[news_agency][topic_name] = 0
+
+#     news_agency_topic_distribution[news_agency][topic_name] += 1
+
+# with open("news_agency_topic_distribution.json", "w+") as fp:
+#     json.dump(news_agency_topic_distribution, fp, indent=2)
+
+
+def getMaxOf(arr):
+    if len(arr) == 1:
+        return topic_name_id[arr[0][0]]
+    
+    best_topic = arr[0]
+    for tup in arr:
+        if tup[1] > best_topic[1]:
+            best_topic = tup
+    
+    return topic_name_id[best_topic[0]]
+
 for i, row in df.iterrows():
-    _, __, df.loc[i, "lda_topic"] = getMajorTopic(lda_model[corpus_tfidf[i]])
-result = df.to_json(orient="records")
-json.dump(result, open(f"{SAVED_STATES_FOLDER}df.json", "w+"), indent=2)
-
-
-
+    df.loc[i, "lda_topic"] = getMaxOf(lda_model[corpus_tfidf[i]])
 
 ## Create a domain dict with the respective weights for the various topics
 domains = df.domain.unique().tolist()
@@ -234,7 +202,8 @@ G = nx.Graph()
 ## G.add_edge("a", "b", weight=0.6)
 
 ## Filter weight_domain_dict
-targetted_companies = ['cnn', 'theguardian', 'nature', 'scientificamerican', 'nytimes','cnbc', 'bbc','scmp', 'reuters', 'finance.yahoo','theverge','independent', 'newyorker','japantimes','hbr']
+# targetted_companies = ['cnn', 'theguardian', 'nature', 'scientificamerican', 'nytimes','cnbc', 'bbc','scmp', 'reuters', 'finance.yahoo','theverge','independent', 'newyorker','japantimes','hbr']
+targetted_companies = df.domain.unique().tolist()
 weight_domain_dict = {k: v for k,v in weight_domain_dict.items() if k in targetted_companies}
 
 for i in range(len(weight_domain_dict.keys())):
@@ -256,10 +225,10 @@ for i in range(len(weight_domain_dict.keys())):
 
                 G.add_edge(target_domain_name, other_domain_name, weight=new_weight)
 
-
+nx.write_graphml_lxml(G, "results/news_agencies_network_lda.graphml")
 
 ## Graphing code no need to edit below
-plt.figure(figsize=(10,10))
+plt.figure(figsize=(100,100))
 # edge_list = [(u, v) for (u, v, d) in G.edges(data=True)]
 # pos = nx.spring_layout(G, k=5, iterations=20)
 # nx.draw_networkx_nodes(G, pos, node_size=60)
@@ -267,4 +236,5 @@ plt.figure(figsize=(10,10))
 # nx.draw_networkx_labels(G, pos, font_size=10, font_family="sans-serif")
 nx.draw(G, with_labels=True, node_size=60)
 plt.axis("off")
-plt.show()
+# plt.show()
+plt.savefig("results/news_agencies_network_lda.png")
