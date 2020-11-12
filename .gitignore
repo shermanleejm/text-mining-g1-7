@@ -8,3 +8,4 @@ saved_states/df.json
 .DS_Store
 saved_states/corpus
 saved_states/corpus.index
+plt_figures
