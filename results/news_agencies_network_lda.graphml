@@ -1,0 +1,3568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="int"/>
+<graph edgedefault="undirected"><node id="marketbeat"/>
+<node id="edition.cnn"/>
+<node id="cnn"/>
+<node id="theguardian"/>
+<node id="nature"/>
+<node id="scientificamerican"/>
+<node id="nytimes"/>
+<node id="express"/>
+<node id="theconversation"/>
+<node id="cnbc"/>
+<node id="bbc"/>
+<node id="marketscreener"/>
+<node id="scmp"/>
+<node id="reuters"/>
+<node id="finance.yahoo"/>
+<node id="marketwatch"/>
+<node id="theverge"/>
+<node id="newatlas"/>
+<node id="globalbankingandfinance"/>
+<node id="sciencedaily"/>
+<node id="theatlantic"/>
+<node id="independent"/>
+<node id="fiercebiotech"/>
+<node id="techcrunch"/>
+<node id="venturebeat"/>
+<node id="morningstar"/>
+<node id="fool"/>
+<node id="engadget"/>
+<node id="newyorker"/>
+<node id="inc"/>
+<node id="materialstoday"/>
+<node id="finsmes"/>
+<node id="news.crunchbase"/>
+<node id="bioworld"/>
+<node id="computerweekly"/>
+<node id="eenewsautomotive"/>
+<node id="eco-business"/>
+<node id="japantimes"/>
+<node id="thefintechtimes"/>
+<node id="altassets"/>
+<node id="esgclarity"/>
+<node id="med-technews"/>
+<node id="hbr"/>
+<node id="just-auto"/>
+<node id="emerj"/>
+<node id="biospace"/>
+<node id="greenbiz"/>
+<node id="autonews"/>
+<node id="businessinsider"/>
+<edge source="marketbeat" target="edition.cnn">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="cnn">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="theguardian">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="nature">
+  <data key="d0">284</data>
+</edge>
+<edge source="marketbeat" target="scientificamerican">
+  <data key="d0">270</data>
+</edge>
+<edge source="marketbeat" target="nytimes">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="express">
+  <data key="d0">1122</data>
+</edge>
+<edge source="marketbeat" target="theconversation">
+  <data key="d0">858</data>
+</edge>
+<edge source="marketbeat" target="cnbc">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="bbc">
+  <data key="d0">580</data>
+</edge>
+<edge source="marketbeat" target="marketscreener">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="scmp">
+  <data key="d0">798</data>
+</edge>
+<edge source="marketbeat" target="reuters">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="finance.yahoo">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="marketwatch">
+  <data key="d0">1158</data>
+</edge>
+<edge source="marketbeat" target="theverge">
+  <data key="d0">1090</data>
+</edge>
+<edge source="marketbeat" target="newatlas">
+  <data key="d0">222</data>
+</edge>
+<edge source="marketbeat" target="globalbankingandfinance">
+  <data key="d0">1084</data>
+</edge>
+<edge source="marketbeat" target="sciencedaily">
+  <data key="d0">202</data>
+</edge>
+<edge source="marketbeat" target="theatlantic">
+  <data key="d0">288</data>
+</edge>
+<edge source="marketbeat" target="independent">
+  <data key="d0">204</data>
+</edge>
+<edge source="marketbeat" target="fiercebiotech">
+  <data key="d0">172</data>
+</edge>
+<edge source="marketbeat" target="techcrunch">
+  <data key="d0">1042</data>
+</edge>
+<edge source="marketbeat" target="venturebeat">
+  <data key="d0">1004</data>
+</edge>
+<edge source="marketbeat" target="morningstar">
+  <data key="d0">886</data>
+</edge>
+<edge source="marketbeat" target="fool">
+  <data key="d0">1066</data>
+</edge>
+<edge source="marketbeat" target="engadget">
+  <data key="d0">258</data>
+</edge>
+<edge source="marketbeat" target="newyorker">
+  <data key="d0">200</data>
+</edge>
+<edge source="marketbeat" target="inc">
+  <data key="d0">804</data>
+</edge>
+<edge source="marketbeat" target="materialstoday">
+  <data key="d0">80</data>
+</edge>
+<edge source="marketbeat" target="finsmes">
+  <data key="d0">228</data>
+</edge>
+<edge source="marketbeat" target="news.crunchbase">
+  <data key="d0">602</data>
+</edge>
+<edge source="marketbeat" target="bioworld">
+  <data key="d0">180</data>
+</edge>
+<edge source="marketbeat" target="computerweekly">
+  <data key="d0">186</data>
+</edge>
+<edge source="marketbeat" target="eenewsautomotive">
+  <data key="d0">44</data>
+</edge>
+<edge source="marketbeat" target="eco-business">
+  <data key="d0">152</data>
+</edge>
+<edge source="marketbeat" target="japantimes">
+  <data key="d0">206</data>
+</edge>
+<edge source="marketbeat" target="thefintechtimes">
+  <data key="d0">708</data>
+</edge>
+<edge source="marketbeat" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="marketbeat" target="esgclarity">
+  <data key="d0">246</data>
+</edge>
+<edge source="marketbeat" target="med-technews">
+  <data key="d0">218</data>
+</edge>
+<edge source="marketbeat" target="hbr">
+  <data key="d0">236</data>
+</edge>
+<edge source="marketbeat" target="just-auto">
+  <data key="d0">44</data>
+</edge>
+<edge source="marketbeat" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="marketbeat" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="marketbeat" target="greenbiz">
+  <data key="d0">242</data>
+</edge>
+<edge source="marketbeat" target="autonews">
+  <data key="d0">102</data>
+</edge>
+<edge source="marketbeat" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="edition.cnn" target="cnn">
+  <data key="d0">14498</data>
+</edge>
+<edge source="edition.cnn" target="theguardian">
+  <data key="d0">11962</data>
+</edge>
+<edge source="edition.cnn" target="nature">
+  <data key="d0">1242</data>
+</edge>
+<edge source="edition.cnn" target="scientificamerican">
+  <data key="d0">992</data>
+</edge>
+<edge source="edition.cnn" target="nytimes">
+  <data key="d0">14442</data>
+</edge>
+<edge source="edition.cnn" target="express">
+  <data key="d0">11012</data>
+</edge>
+<edge source="edition.cnn" target="theconversation">
+  <data key="d0">5678</data>
+</edge>
+<edge source="edition.cnn" target="cnbc">
+  <data key="d0">11614</data>
+</edge>
+<edge source="edition.cnn" target="bbc">
+  <data key="d0">2504</data>
+</edge>
+<edge source="edition.cnn" target="marketscreener">
+  <data key="d0">11146</data>
+</edge>
+<edge source="edition.cnn" target="scmp">
+  <data key="d0">2030</data>
+</edge>
+<edge source="edition.cnn" target="reuters">
+  <data key="d0">14498</data>
+</edge>
+<edge source="edition.cnn" target="finance.yahoo">
+  <data key="d0">14498</data>
+</edge>
+<edge source="edition.cnn" target="marketwatch">
+  <data key="d0">11506</data>
+</edge>
+<edge source="edition.cnn" target="theverge">
+  <data key="d0">3496</data>
+</edge>
+<edge source="edition.cnn" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="edition.cnn" target="globalbankingandfinance">
+  <data key="d0">2970</data>
+</edge>
+<edge source="edition.cnn" target="sciencedaily">
+  <data key="d0">1352</data>
+</edge>
+<edge source="edition.cnn" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="edition.cnn" target="independent">
+  <data key="d0">438</data>
+</edge>
+<edge source="edition.cnn" target="fiercebiotech">
+  <data key="d0">404</data>
+</edge>
+<edge source="edition.cnn" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="edition.cnn" target="venturebeat">
+  <data key="d0">1730</data>
+</edge>
+<edge source="edition.cnn" target="morningstar">
+  <data key="d0">932</data>
+</edge>
+<edge source="edition.cnn" target="fool">
+  <data key="d0">2466</data>
+</edge>
+<edge source="edition.cnn" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="edition.cnn" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="edition.cnn" target="inc">
+  <data key="d0">1664</data>
+</edge>
+<edge source="edition.cnn" target="materialstoday">
+  <data key="d0">92</data>
+</edge>
+<edge source="edition.cnn" target="finsmes">
+  <data key="d0">236</data>
+</edge>
+<edge source="edition.cnn" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="edition.cnn" target="bioworld">
+  <data key="d0">426</data>
+</edge>
+<edge source="edition.cnn" target="computerweekly">
+  <data key="d0">322</data>
+</edge>
+<edge source="edition.cnn" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="edition.cnn" target="eco-business">
+  <data key="d0">282</data>
+</edge>
+<edge source="edition.cnn" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="edition.cnn" target="thefintechtimes">
+  <data key="d0">756</data>
+</edge>
+<edge source="edition.cnn" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="edition.cnn" target="esgclarity">
+  <data key="d0">346</data>
+</edge>
+<edge source="edition.cnn" target="med-technews">
+  <data key="d0">372</data>
+</edge>
+<edge source="edition.cnn" target="hbr">
+  <data key="d0">526</data>
+</edge>
+<edge source="edition.cnn" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="edition.cnn" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="edition.cnn" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="edition.cnn" target="greenbiz">
+  <data key="d0">368</data>
+</edge>
+<edge source="edition.cnn" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="edition.cnn" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="cnn" target="theguardian">
+  <data key="d0">15592</data>
+</edge>
+<edge source="cnn" target="nature">
+  <data key="d0">1242</data>
+</edge>
+<edge source="cnn" target="scientificamerican">
+  <data key="d0">992</data>
+</edge>
+<edge source="cnn" target="nytimes">
+  <data key="d0">21488</data>
+</edge>
+<edge source="cnn" target="express">
+  <data key="d0">14920</data>
+</edge>
+<edge source="cnn" target="theconversation">
+  <data key="d0">7248</data>
+</edge>
+<edge source="cnn" target="cnbc">
+  <data key="d0">13944</data>
+</edge>
+<edge source="cnn" target="bbc">
+  <data key="d0">2504</data>
+</edge>
+<edge source="cnn" target="marketscreener">
+  <data key="d0">16128</data>
+</edge>
+<edge source="cnn" target="scmp">
+  <data key="d0">2030</data>
+</edge>
+<edge source="cnn" target="reuters">
+  <data key="d0">19476</data>
+</edge>
+<edge source="cnn" target="finance.yahoo">
+  <data key="d0">24088</data>
+</edge>
+<edge source="cnn" target="marketwatch">
+  <data key="d0">13116</data>
+</edge>
+<edge source="cnn" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="cnn" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="cnn" target="globalbankingandfinance">
+  <data key="d0">3350</data>
+</edge>
+<edge source="cnn" target="sciencedaily">
+  <data key="d0">1352</data>
+</edge>
+<edge source="cnn" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="cnn" target="independent">
+  <data key="d0">438</data>
+</edge>
+<edge source="cnn" target="fiercebiotech">
+  <data key="d0">404</data>
+</edge>
+<edge source="cnn" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="cnn" target="venturebeat">
+  <data key="d0">1734</data>
+</edge>
+<edge source="cnn" target="morningstar">
+  <data key="d0">932</data>
+</edge>
+<edge source="cnn" target="fool">
+  <data key="d0">3598</data>
+</edge>
+<edge source="cnn" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="cnn" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="cnn" target="inc">
+  <data key="d0">1664</data>
+</edge>
+<edge source="cnn" target="materialstoday">
+  <data key="d0">100</data>
+</edge>
+<edge source="cnn" target="finsmes">
+  <data key="d0">236</data>
+</edge>
+<edge source="cnn" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="cnn" target="bioworld">
+  <data key="d0">426</data>
+</edge>
+<edge source="cnn" target="computerweekly">
+  <data key="d0">322</data>
+</edge>
+<edge source="cnn" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="cnn" target="eco-business">
+  <data key="d0">282</data>
+</edge>
+<edge source="cnn" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="cnn" target="thefintechtimes">
+  <data key="d0">764</data>
+</edge>
+<edge source="cnn" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="cnn" target="esgclarity">
+  <data key="d0">354</data>
+</edge>
+<edge source="cnn" target="med-technews">
+  <data key="d0">374</data>
+</edge>
+<edge source="cnn" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="cnn" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="cnn" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="cnn" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="cnn" target="greenbiz">
+  <data key="d0">368</data>
+</edge>
+<edge source="cnn" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="cnn" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="theguardian" target="nature">
+  <data key="d0">1244</data>
+</edge>
+<edge source="theguardian" target="scientificamerican">
+  <data key="d0">994</data>
+</edge>
+<edge source="theguardian" target="nytimes">
+  <data key="d0">16104</data>
+</edge>
+<edge source="theguardian" target="express">
+  <data key="d0">26350</data>
+</edge>
+<edge source="theguardian" target="theconversation">
+  <data key="d0">7740</data>
+</edge>
+<edge source="theguardian" target="cnbc">
+  <data key="d0">11864</data>
+</edge>
+<edge source="theguardian" target="bbc">
+  <data key="d0">2504</data>
+</edge>
+<edge source="theguardian" target="marketscreener">
+  <data key="d0">12094</data>
+</edge>
+<edge source="theguardian" target="scmp">
+  <data key="d0">2036</data>
+</edge>
+<edge source="theguardian" target="reuters">
+  <data key="d0">15814</data>
+</edge>
+<edge source="theguardian" target="finance.yahoo">
+  <data key="d0">28498</data>
+</edge>
+<edge source="theguardian" target="marketwatch">
+  <data key="d0">11294</data>
+</edge>
+<edge source="theguardian" target="theverge">
+  <data key="d0">3414</data>
+</edge>
+<edge source="theguardian" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="theguardian" target="globalbankingandfinance">
+  <data key="d0">3416</data>
+</edge>
+<edge source="theguardian" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="theguardian" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="theguardian" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="theguardian" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="theguardian" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="theguardian" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="theguardian" target="morningstar">
+  <data key="d0">944</data>
+</edge>
+<edge source="theguardian" target="fool">
+  <data key="d0">2780</data>
+</edge>
+<edge source="theguardian" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="theguardian" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="theguardian" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="theguardian" target="materialstoday">
+  <data key="d0">112</data>
+</edge>
+<edge source="theguardian" target="finsmes">
+  <data key="d0">248</data>
+</edge>
+<edge source="theguardian" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="theguardian" target="bioworld">
+  <data key="d0">438</data>
+</edge>
+<edge source="theguardian" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="theguardian" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="theguardian" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="theguardian" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="theguardian" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="theguardian" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="theguardian" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="theguardian" target="med-technews">
+  <data key="d0">386</data>
+</edge>
+<edge source="theguardian" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="theguardian" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="theguardian" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="theguardian" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="theguardian" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="theguardian" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="theguardian" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="nature" target="scientificamerican">
+  <data key="d0">888</data>
+</edge>
+<edge source="nature" target="nytimes">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="express">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="theconversation">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="cnbc">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="bbc">
+  <data key="d0">1012</data>
+</edge>
+<edge source="nature" target="marketscreener">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="scmp">
+  <data key="d0">722</data>
+</edge>
+<edge source="nature" target="reuters">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="finance.yahoo">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="marketwatch">
+  <data key="d0">1244</data>
+</edge>
+<edge source="nature" target="theverge">
+  <data key="d0">1240</data>
+</edge>
+<edge source="nature" target="newatlas">
+  <data key="d0">278</data>
+</edge>
+<edge source="nature" target="globalbankingandfinance">
+  <data key="d0">1062</data>
+</edge>
+<edge source="nature" target="sciencedaily">
+  <data key="d0">812</data>
+</edge>
+<edge source="nature" target="theatlantic">
+  <data key="d0">1150</data>
+</edge>
+<edge source="nature" target="independent">
+  <data key="d0">416</data>
+</edge>
+<edge source="nature" target="fiercebiotech">
+  <data key="d0">402</data>
+</edge>
+<edge source="nature" target="techcrunch">
+  <data key="d0">634</data>
+</edge>
+<edge source="nature" target="venturebeat">
+  <data key="d0">488</data>
+</edge>
+<edge source="nature" target="morningstar">
+  <data key="d0">166</data>
+</edge>
+<edge source="nature" target="fool">
+  <data key="d0">720</data>
+</edge>
+<edge source="nature" target="engadget">
+  <data key="d0">188</data>
+</edge>
+<edge source="nature" target="newyorker">
+  <data key="d0">332</data>
+</edge>
+<edge source="nature" target="inc">
+  <data key="d0">898</data>
+</edge>
+<edge source="nature" target="materialstoday">
+  <data key="d0">80</data>
+</edge>
+<edge source="nature" target="finsmes">
+  <data key="d0">148</data>
+</edge>
+<edge source="nature" target="news.crunchbase">
+  <data key="d0">136</data>
+</edge>
+<edge source="nature" target="bioworld">
+  <data key="d0">420</data>
+</edge>
+<edge source="nature" target="computerweekly">
+  <data key="d0">238</data>
+</edge>
+<edge source="nature" target="eenewsautomotive">
+  <data key="d0">32</data>
+</edge>
+<edge source="nature" target="eco-business">
+  <data key="d0">274</data>
+</edge>
+<edge source="nature" target="japantimes">
+  <data key="d0">236</data>
+</edge>
+<edge source="nature" target="thefintechtimes">
+  <data key="d0">118</data>
+</edge>
+<edge source="nature" target="altassets">
+  <data key="d0">38</data>
+</edge>
+<edge source="nature" target="esgclarity">
+  <data key="d0">186</data>
+</edge>
+<edge source="nature" target="med-technews">
+  <data key="d0">314</data>
+</edge>
+<edge source="nature" target="hbr">
+  <data key="d0">430</data>
+</edge>
+<edge source="nature" target="just-auto">
+  <data key="d0">20</data>
+</edge>
+<edge source="nature" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="nature" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="nature" target="greenbiz">
+  <data key="d0">266</data>
+</edge>
+<edge source="nature" target="autonews">
+  <data key="d0">30</data>
+</edge>
+<edge source="nature" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="scientificamerican" target="nytimes">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="express">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="theconversation">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="cnbc">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="bbc">
+  <data key="d0">710</data>
+</edge>
+<edge source="scientificamerican" target="marketscreener">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="scmp">
+  <data key="d0">702</data>
+</edge>
+<edge source="scientificamerican" target="reuters">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="finance.yahoo">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="marketwatch">
+  <data key="d0">994</data>
+</edge>
+<edge source="scientificamerican" target="theverge">
+  <data key="d0">990</data>
+</edge>
+<edge source="scientificamerican" target="newatlas">
+  <data key="d0">252</data>
+</edge>
+<edge source="scientificamerican" target="globalbankingandfinance">
+  <data key="d0">974</data>
+</edge>
+<edge source="scientificamerican" target="sciencedaily">
+  <data key="d0">844</data>
+</edge>
+<edge source="scientificamerican" target="theatlantic">
+  <data key="d0">874</data>
+</edge>
+<edge source="scientificamerican" target="independent">
+  <data key="d0">416</data>
+</edge>
+<edge source="scientificamerican" target="fiercebiotech">
+  <data key="d0">380</data>
+</edge>
+<edge source="scientificamerican" target="techcrunch">
+  <data key="d0">612</data>
+</edge>
+<edge source="scientificamerican" target="venturebeat">
+  <data key="d0">468</data>
+</edge>
+<edge source="scientificamerican" target="morningstar">
+  <data key="d0">146</data>
+</edge>
+<edge source="scientificamerican" target="fool">
+  <data key="d0">724</data>
+</edge>
+<edge source="scientificamerican" target="engadget">
+  <data key="d0">164</data>
+</edge>
+<edge source="scientificamerican" target="newyorker">
+  <data key="d0">374</data>
+</edge>
+<edge source="scientificamerican" target="inc">
+  <data key="d0">598</data>
+</edge>
+<edge source="scientificamerican" target="materialstoday">
+  <data key="d0">54</data>
+</edge>
+<edge source="scientificamerican" target="finsmes">
+  <data key="d0">120</data>
+</edge>
+<edge source="scientificamerican" target="news.crunchbase">
+  <data key="d0">112</data>
+</edge>
+<edge source="scientificamerican" target="bioworld">
+  <data key="d0">390</data>
+</edge>
+<edge source="scientificamerican" target="computerweekly">
+  <data key="d0">210</data>
+</edge>
+<edge source="scientificamerican" target="eenewsautomotive">
+  <data key="d0">32</data>
+</edge>
+<edge source="scientificamerican" target="eco-business">
+  <data key="d0">250</data>
+</edge>
+<edge source="scientificamerican" target="japantimes">
+  <data key="d0">234</data>
+</edge>
+<edge source="scientificamerican" target="thefintechtimes">
+  <data key="d0">88</data>
+</edge>
+<edge source="scientificamerican" target="altassets">
+  <data key="d0">28</data>
+</edge>
+<edge source="scientificamerican" target="esgclarity">
+  <data key="d0">154</data>
+</edge>
+<edge source="scientificamerican" target="med-technews">
+  <data key="d0">282</data>
+</edge>
+<edge source="scientificamerican" target="hbr">
+  <data key="d0">388</data>
+</edge>
+<edge source="scientificamerican" target="just-auto">
+  <data key="d0">26</data>
+</edge>
+<edge source="scientificamerican" target="emerj">
+  <data key="d0">18</data>
+</edge>
+<edge source="scientificamerican" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="scientificamerican" target="greenbiz">
+  <data key="d0">242</data>
+</edge>
+<edge source="scientificamerican" target="autonews">
+  <data key="d0">38</data>
+</edge>
+<edge source="scientificamerican" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="nytimes" target="express">
+  <data key="d0">15134</data>
+</edge>
+<edge source="nytimes" target="theconversation">
+  <data key="d0">7944</data>
+</edge>
+<edge source="nytimes" target="cnbc">
+  <data key="d0">12716</data>
+</edge>
+<edge source="nytimes" target="bbc">
+  <data key="d0">2504</data>
+</edge>
+<edge source="nytimes" target="marketscreener">
+  <data key="d0">15390</data>
+</edge>
+<edge source="nytimes" target="scmp">
+  <data key="d0">2036</data>
+</edge>
+<edge source="nytimes" target="reuters">
+  <data key="d0">18738</data>
+</edge>
+<edge source="nytimes" target="finance.yahoo">
+  <data key="d0">26188</data>
+</edge>
+<edge source="nytimes" target="marketwatch">
+  <data key="d0">11904</data>
+</edge>
+<edge source="nytimes" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="nytimes" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="nytimes" target="globalbankingandfinance">
+  <data key="d0">3284</data>
+</edge>
+<edge source="nytimes" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="nytimes" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="nytimes" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="nytimes" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="nytimes" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="nytimes" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="nytimes" target="morningstar">
+  <data key="d0">942</data>
+</edge>
+<edge source="nytimes" target="fool">
+  <data key="d0">2572</data>
+</edge>
+<edge source="nytimes" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="nytimes" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="nytimes" target="inc">
+  <data key="d0">1674</data>
+</edge>
+<edge source="nytimes" target="materialstoday">
+  <data key="d0">110</data>
+</edge>
+<edge source="nytimes" target="finsmes">
+  <data key="d0">246</data>
+</edge>
+<edge source="nytimes" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="nytimes" target="bioworld">
+  <data key="d0">436</data>
+</edge>
+<edge source="nytimes" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="nytimes" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="nytimes" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="nytimes" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="nytimes" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="nytimes" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="nytimes" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="nytimes" target="med-technews">
+  <data key="d0">384</data>
+</edge>
+<edge source="nytimes" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="nytimes" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="nytimes" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="nytimes" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="nytimes" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="nytimes" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="nytimes" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="express" target="theconversation">
+  <data key="d0">7712</data>
+</edge>
+<edge source="express" target="cnbc">
+  <data key="d0">12098</data>
+</edge>
+<edge source="express" target="bbc">
+  <data key="d0">2494</data>
+</edge>
+<edge source="express" target="marketscreener">
+  <data key="d0">13372</data>
+</edge>
+<edge source="express" target="scmp">
+  <data key="d0">2004</data>
+</edge>
+<edge source="express" target="reuters">
+  <data key="d0">15316</data>
+</edge>
+<edge source="express" target="finance.yahoo">
+  <data key="d0">45964</data>
+</edge>
+<edge source="express" target="marketwatch">
+  <data key="d0">11204</data>
+</edge>
+<edge source="express" target="theverge">
+  <data key="d0">3294</data>
+</edge>
+<edge source="express" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="express" target="globalbankingandfinance">
+  <data key="d0">3352</data>
+</edge>
+<edge source="express" target="sciencedaily">
+  <data key="d0">1356</data>
+</edge>
+<edge source="express" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="express" target="independent">
+  <data key="d0">442</data>
+</edge>
+<edge source="express" target="fiercebiotech">
+  <data key="d0">408</data>
+</edge>
+<edge source="express" target="techcrunch">
+  <data key="d0">1400</data>
+</edge>
+<edge source="express" target="venturebeat">
+  <data key="d0">1734</data>
+</edge>
+<edge source="express" target="morningstar">
+  <data key="d0">886</data>
+</edge>
+<edge source="express" target="fool">
+  <data key="d0">2946</data>
+</edge>
+<edge source="express" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="express" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="express" target="inc">
+  <data key="d0">1668</data>
+</edge>
+<edge source="express" target="materialstoday">
+  <data key="d0">104</data>
+</edge>
+<edge source="express" target="finsmes">
+  <data key="d0">240</data>
+</edge>
+<edge source="express" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="express" target="bioworld">
+  <data key="d0">430</data>
+</edge>
+<edge source="express" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="express" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="express" target="eco-business">
+  <data key="d0">286</data>
+</edge>
+<edge source="express" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="express" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="express" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="express" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="express" target="med-technews">
+  <data key="d0">378</data>
+</edge>
+<edge source="express" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="express" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="express" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="express" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="express" target="greenbiz">
+  <data key="d0">370</data>
+</edge>
+<edge source="express" target="autonews">
+  <data key="d0">66</data>
+</edge>
+<edge source="express" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="theconversation" target="cnbc">
+  <data key="d0">5350</data>
+</edge>
+<edge source="theconversation" target="bbc">
+  <data key="d0">2300</data>
+</edge>
+<edge source="theconversation" target="marketscreener">
+  <data key="d0">6736</data>
+</edge>
+<edge source="theconversation" target="scmp">
+  <data key="d0">1490</data>
+</edge>
+<edge source="theconversation" target="reuters">
+  <data key="d0">7560</data>
+</edge>
+<edge source="theconversation" target="finance.yahoo">
+  <data key="d0">8028</data>
+</edge>
+<edge source="theconversation" target="marketwatch">
+  <data key="d0">5666</data>
+</edge>
+<edge source="theconversation" target="theverge">
+  <data key="d0">2442</data>
+</edge>
+<edge source="theconversation" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="theconversation" target="globalbankingandfinance">
+  <data key="d0">2436</data>
+</edge>
+<edge source="theconversation" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="theconversation" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="theconversation" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="theconversation" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="theconversation" target="techcrunch">
+  <data key="d0">1186</data>
+</edge>
+<edge source="theconversation" target="venturebeat">
+  <data key="d0">1034</data>
+</edge>
+<edge source="theconversation" target="morningstar">
+  <data key="d0">704</data>
+</edge>
+<edge source="theconversation" target="fool">
+  <data key="d0">1400</data>
+</edge>
+<edge source="theconversation" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="theconversation" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="theconversation" target="inc">
+  <data key="d0">1654</data>
+</edge>
+<edge source="theconversation" target="materialstoday">
+  <data key="d0">134</data>
+</edge>
+<edge source="theconversation" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="theconversation" target="news.crunchbase">
+  <data key="d0">606</data>
+</edge>
+<edge source="theconversation" target="bioworld">
+  <data key="d0">460</data>
+</edge>
+<edge source="theconversation" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="theconversation" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="theconversation" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="theconversation" target="japantimes">
+  <data key="d0">348</data>
+</edge>
+<edge source="theconversation" target="thefintechtimes">
+  <data key="d0">600</data>
+</edge>
+<edge source="theconversation" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="theconversation" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="theconversation" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="theconversation" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="theconversation" target="just-auto">
+  <data key="d0">42</data>
+</edge>
+<edge source="theconversation" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="theconversation" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="theconversation" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="theconversation" target="autonews">
+  <data key="d0">60</data>
+</edge>
+<edge source="theconversation" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="cnbc" target="bbc">
+  <data key="d0">2504</data>
+</edge>
+<edge source="cnbc" target="marketscreener">
+  <data key="d0">29686</data>
+</edge>
+<edge source="cnbc" target="scmp">
+  <data key="d0">2036</data>
+</edge>
+<edge source="cnbc" target="reuters">
+  <data key="d0">31106</data>
+</edge>
+<edge source="cnbc" target="finance.yahoo">
+  <data key="d0">31704</data>
+</edge>
+<edge source="cnbc" target="marketwatch">
+  <data key="d0">26958</data>
+</edge>
+<edge source="cnbc" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="cnbc" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="cnbc" target="globalbankingandfinance">
+  <data key="d0">3592</data>
+</edge>
+<edge source="cnbc" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="cnbc" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="cnbc" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="cnbc" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="cnbc" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="cnbc" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="cnbc" target="morningstar">
+  <data key="d0">958</data>
+</edge>
+<edge source="cnbc" target="fool">
+  <data key="d0">6308</data>
+</edge>
+<edge source="cnbc" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="cnbc" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="cnbc" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="cnbc" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="cnbc" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="cnbc" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="cnbc" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="cnbc" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="cnbc" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="cnbc" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="cnbc" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="cnbc" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="cnbc" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="cnbc" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="cnbc" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="cnbc" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="cnbc" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="cnbc" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="cnbc" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="cnbc" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="cnbc" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="cnbc" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="bbc" target="marketscreener">
+  <data key="d0">2504</data>
+</edge>
+<edge source="bbc" target="scmp">
+  <data key="d0">1418</data>
+</edge>
+<edge source="bbc" target="reuters">
+  <data key="d0">2504</data>
+</edge>
+<edge source="bbc" target="finance.yahoo">
+  <data key="d0">2504</data>
+</edge>
+<edge source="bbc" target="marketwatch">
+  <data key="d0">2504</data>
+</edge>
+<edge source="bbc" target="theverge">
+  <data key="d0">1612</data>
+</edge>
+<edge source="bbc" target="newatlas">
+  <data key="d0">308</data>
+</edge>
+<edge source="bbc" target="globalbankingandfinance">
+  <data key="d0">1128</data>
+</edge>
+<edge source="bbc" target="sciencedaily">
+  <data key="d0">582</data>
+</edge>
+<edge source="bbc" target="theatlantic">
+  <data key="d0">1162</data>
+</edge>
+<edge source="bbc" target="independent">
+  <data key="d0">428</data>
+</edge>
+<edge source="bbc" target="fiercebiotech">
+  <data key="d0">312</data>
+</edge>
+<edge source="bbc" target="techcrunch">
+  <data key="d0">864</data>
+</edge>
+<edge source="bbc" target="venturebeat">
+  <data key="d0">708</data>
+</edge>
+<edge source="bbc" target="morningstar">
+  <data key="d0">360</data>
+</edge>
+<edge source="bbc" target="fool">
+  <data key="d0">884</data>
+</edge>
+<edge source="bbc" target="engadget">
+  <data key="d0">360</data>
+</edge>
+<edge source="bbc" target="newyorker">
+  <data key="d0">454</data>
+</edge>
+<edge source="bbc" target="inc">
+  <data key="d0">1316</data>
+</edge>
+<edge source="bbc" target="materialstoday">
+  <data key="d0">80</data>
+</edge>
+<edge source="bbc" target="finsmes">
+  <data key="d0">230</data>
+</edge>
+<edge source="bbc" target="news.crunchbase">
+  <data key="d0">282</data>
+</edge>
+<edge source="bbc" target="bioworld">
+  <data key="d0">318</data>
+</edge>
+<edge source="bbc" target="computerweekly">
+  <data key="d0">318</data>
+</edge>
+<edge source="bbc" target="eenewsautomotive">
+  <data key="d0">46</data>
+</edge>
+<edge source="bbc" target="eco-business">
+  <data key="d0">276</data>
+</edge>
+<edge source="bbc" target="japantimes">
+  <data key="d0">358</data>
+</edge>
+<edge source="bbc" target="thefintechtimes">
+  <data key="d0">254</data>
+</edge>
+<edge source="bbc" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="bbc" target="esgclarity">
+  <data key="d0">318</data>
+</edge>
+<edge source="bbc" target="med-technews">
+  <data key="d0">360</data>
+</edge>
+<edge source="bbc" target="hbr">
+  <data key="d0">514</data>
+</edge>
+<edge source="bbc" target="just-auto">
+  <data key="d0">46</data>
+</edge>
+<edge source="bbc" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="bbc" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="bbc" target="greenbiz">
+  <data key="d0">364</data>
+</edge>
+<edge source="bbc" target="autonews">
+  <data key="d0">76</data>
+</edge>
+<edge source="bbc" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="marketscreener" target="scmp">
+  <data key="d0">2036</data>
+</edge>
+<edge source="marketscreener" target="reuters">
+  <data key="d0">34066</data>
+</edge>
+<edge source="marketscreener" target="finance.yahoo">
+  <data key="d0">65540</data>
+</edge>
+<edge source="marketscreener" target="marketwatch">
+  <data key="d0">27292</data>
+</edge>
+<edge source="marketscreener" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="marketscreener" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="marketscreener" target="globalbankingandfinance">
+  <data key="d0">7020</data>
+</edge>
+<edge source="marketscreener" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="marketscreener" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="marketscreener" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="marketscreener" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="marketscreener" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="marketscreener" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="marketscreener" target="morningstar">
+  <data key="d0">958</data>
+</edge>
+<edge source="marketscreener" target="fool">
+  <data key="d0">6308</data>
+</edge>
+<edge source="marketscreener" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="marketscreener" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="marketscreener" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="marketscreener" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="marketscreener" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="marketscreener" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="marketscreener" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="marketscreener" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="marketscreener" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="marketscreener" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="marketscreener" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="marketscreener" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="marketscreener" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="marketscreener" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="marketscreener" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="marketscreener" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="marketscreener" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="marketscreener" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="marketscreener" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="marketscreener" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="marketscreener" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="marketscreener" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="scmp" target="reuters">
+  <data key="d0">2036</data>
+</edge>
+<edge source="scmp" target="finance.yahoo">
+  <data key="d0">2036</data>
+</edge>
+<edge source="scmp" target="marketwatch">
+  <data key="d0">2036</data>
+</edge>
+<edge source="scmp" target="theverge">
+  <data key="d0">1468</data>
+</edge>
+<edge source="scmp" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="scmp" target="globalbankingandfinance">
+  <data key="d0">1246</data>
+</edge>
+<edge source="scmp" target="sciencedaily">
+  <data key="d0">578</data>
+</edge>
+<edge source="scmp" target="theatlantic">
+  <data key="d0">924</data>
+</edge>
+<edge source="scmp" target="independent">
+  <data key="d0">442</data>
+</edge>
+<edge source="scmp" target="fiercebiotech">
+  <data key="d0">308</data>
+</edge>
+<edge source="scmp" target="techcrunch">
+  <data key="d0">1070</data>
+</edge>
+<edge source="scmp" target="venturebeat">
+  <data key="d0">920</data>
+</edge>
+<edge source="scmp" target="morningstar">
+  <data key="d0">592</data>
+</edge>
+<edge source="scmp" target="fool">
+  <data key="d0">1168</data>
+</edge>
+<edge source="scmp" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="scmp" target="newyorker">
+  <data key="d0">500</data>
+</edge>
+<edge source="scmp" target="inc">
+  <data key="d0">1054</data>
+</edge>
+<edge source="scmp" target="materialstoday">
+  <data key="d0">94</data>
+</edge>
+<edge source="scmp" target="finsmes">
+  <data key="d0">242</data>
+</edge>
+<edge source="scmp" target="news.crunchbase">
+  <data key="d0">484</data>
+</edge>
+<edge source="scmp" target="bioworld">
+  <data key="d0">314</data>
+</edge>
+<edge source="scmp" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="scmp" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="scmp" target="eco-business">
+  <data key="d0">288</data>
+</edge>
+<edge source="scmp" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="scmp" target="thefintechtimes">
+  <data key="d0">464</data>
+</edge>
+<edge source="scmp" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="scmp" target="esgclarity">
+  <data key="d0">346</data>
+</edge>
+<edge source="scmp" target="med-technews">
+  <data key="d0">374</data>
+</edge>
+<edge source="scmp" target="hbr">
+  <data key="d0">522</data>
+</edge>
+<edge source="scmp" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="scmp" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="scmp" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="scmp" target="greenbiz">
+  <data key="d0">374</data>
+</edge>
+<edge source="scmp" target="autonews">
+  <data key="d0">90</data>
+</edge>
+<edge source="scmp" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="reuters" target="finance.yahoo">
+  <data key="d0">47548</data>
+</edge>
+<edge source="reuters" target="marketwatch">
+  <data key="d0">27234</data>
+</edge>
+<edge source="reuters" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="reuters" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="reuters" target="globalbankingandfinance">
+  <data key="d0">3700</data>
+</edge>
+<edge source="reuters" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="reuters" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="reuters" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="reuters" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="reuters" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="reuters" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="reuters" target="morningstar">
+  <data key="d0">958</data>
+</edge>
+<edge source="reuters" target="fool">
+  <data key="d0">6308</data>
+</edge>
+<edge source="reuters" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="reuters" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="reuters" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="reuters" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="reuters" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="reuters" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="reuters" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="reuters" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="reuters" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="reuters" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="reuters" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="reuters" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="reuters" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="reuters" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="reuters" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="reuters" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="reuters" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="reuters" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="reuters" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="reuters" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="reuters" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="reuters" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="finance.yahoo" target="marketwatch">
+  <data key="d0">28576</data>
+</edge>
+<edge source="finance.yahoo" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="finance.yahoo" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="finance.yahoo" target="globalbankingandfinance">
+  <data key="d0">7020</data>
+</edge>
+<edge source="finance.yahoo" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="finance.yahoo" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="finance.yahoo" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="finance.yahoo" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="finance.yahoo" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="finance.yahoo" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="finance.yahoo" target="morningstar">
+  <data key="d0">958</data>
+</edge>
+<edge source="finance.yahoo" target="fool">
+  <data key="d0">6308</data>
+</edge>
+<edge source="finance.yahoo" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="finance.yahoo" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="finance.yahoo" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="finance.yahoo" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="finance.yahoo" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="finance.yahoo" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="finance.yahoo" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="finance.yahoo" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="finance.yahoo" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="finance.yahoo" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="finance.yahoo" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="finance.yahoo" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="finance.yahoo" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="finance.yahoo" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="finance.yahoo" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="finance.yahoo" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="finance.yahoo" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="finance.yahoo" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="finance.yahoo" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="finance.yahoo" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="finance.yahoo" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="finance.yahoo" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="marketwatch" target="theverge">
+  <data key="d0">3498</data>
+</edge>
+<edge source="marketwatch" target="newatlas">
+  <data key="d0">310</data>
+</edge>
+<edge source="marketwatch" target="globalbankingandfinance">
+  <data key="d0">3764</data>
+</edge>
+<edge source="marketwatch" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="marketwatch" target="theatlantic">
+  <data key="d0">1722</data>
+</edge>
+<edge source="marketwatch" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="marketwatch" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="marketwatch" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="marketwatch" target="venturebeat">
+  <data key="d0">1742</data>
+</edge>
+<edge source="marketwatch" target="morningstar">
+  <data key="d0">958</data>
+</edge>
+<edge source="marketwatch" target="fool">
+  <data key="d0">6308</data>
+</edge>
+<edge source="marketwatch" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="marketwatch" target="newyorker">
+  <data key="d0">922</data>
+</edge>
+<edge source="marketwatch" target="inc">
+  <data key="d0">1676</data>
+</edge>
+<edge source="marketwatch" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="marketwatch" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="marketwatch" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="marketwatch" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="marketwatch" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="marketwatch" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="marketwatch" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="marketwatch" target="japantimes">
+  <data key="d0">360</data>
+</edge>
+<edge source="marketwatch" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="marketwatch" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="marketwatch" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="marketwatch" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="marketwatch" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="marketwatch" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="marketwatch" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="marketwatch" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="marketwatch" target="greenbiz">
+  <data key="d0">378</data>
+</edge>
+<edge source="marketwatch" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="marketwatch" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="theverge" target="newatlas">
+  <data key="d0">308</data>
+</edge>
+<edge source="theverge" target="globalbankingandfinance">
+  <data key="d0">2432</data>
+</edge>
+<edge source="theverge" target="sciencedaily">
+  <data key="d0">896</data>
+</edge>
+<edge source="theverge" target="theatlantic">
+  <data key="d0">1574</data>
+</edge>
+<edge source="theverge" target="independent">
+  <data key="d0">436</data>
+</edge>
+<edge source="theverge" target="fiercebiotech">
+  <data key="d0">402</data>
+</edge>
+<edge source="theverge" target="techcrunch">
+  <data key="d0">1430</data>
+</edge>
+<edge source="theverge" target="venturebeat">
+  <data key="d0">1666</data>
+</edge>
+<edge source="theverge" target="morningstar">
+  <data key="d0">930</data>
+</edge>
+<edge source="theverge" target="fool">
+  <data key="d0">2186</data>
+</edge>
+<edge source="theverge" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="theverge" target="newyorker">
+  <data key="d0">696</data>
+</edge>
+<edge source="theverge" target="inc">
+  <data key="d0">1588</data>
+</edge>
+<edge source="theverge" target="materialstoday">
+  <data key="d0">92</data>
+</edge>
+<edge source="theverge" target="finsmes">
+  <data key="d0">234</data>
+</edge>
+<edge source="theverge" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="theverge" target="bioworld">
+  <data key="d0">424</data>
+</edge>
+<edge source="theverge" target="computerweekly">
+  <data key="d0">320</data>
+</edge>
+<edge source="theverge" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="theverge" target="eco-business">
+  <data key="d0">280</data>
+</edge>
+<edge source="theverge" target="japantimes">
+  <data key="d0">358</data>
+</edge>
+<edge source="theverge" target="thefintechtimes">
+  <data key="d0">756</data>
+</edge>
+<edge source="theverge" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="theverge" target="esgclarity">
+  <data key="d0">346</data>
+</edge>
+<edge source="theverge" target="med-technews">
+  <data key="d0">372</data>
+</edge>
+<edge source="theverge" target="hbr">
+  <data key="d0">526</data>
+</edge>
+<edge source="theverge" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="theverge" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="theverge" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="theverge" target="greenbiz">
+  <data key="d0">364</data>
+</edge>
+<edge source="theverge" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="theverge" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="newatlas" target="globalbankingandfinance">
+  <data key="d0">310</data>
+</edge>
+<edge source="newatlas" target="sciencedaily">
+  <data key="d0">268</data>
+</edge>
+<edge source="newatlas" target="theatlantic">
+  <data key="d0">268</data>
+</edge>
+<edge source="newatlas" target="independent">
+  <data key="d0">256</data>
+</edge>
+<edge source="newatlas" target="fiercebiotech">
+  <data key="d0">180</data>
+</edge>
+<edge source="newatlas" target="techcrunch">
+  <data key="d0">308</data>
+</edge>
+<edge source="newatlas" target="venturebeat">
+  <data key="d0">310</data>
+</edge>
+<edge source="newatlas" target="morningstar">
+  <data key="d0">170</data>
+</edge>
+<edge source="newatlas" target="fool">
+  <data key="d0">310</data>
+</edge>
+<edge source="newatlas" target="engadget">
+  <data key="d0">208</data>
+</edge>
+<edge source="newatlas" target="newyorker">
+  <data key="d0">190</data>
+</edge>
+<edge source="newatlas" target="inc">
+  <data key="d0">306</data>
+</edge>
+<edge source="newatlas" target="materialstoday">
+  <data key="d0">80</data>
+</edge>
+<edge source="newatlas" target="finsmes">
+  <data key="d0">162</data>
+</edge>
+<edge source="newatlas" target="news.crunchbase">
+  <data key="d0">154</data>
+</edge>
+<edge source="newatlas" target="bioworld">
+  <data key="d0">188</data>
+</edge>
+<edge source="newatlas" target="computerweekly">
+  <data key="d0">176</data>
+</edge>
+<edge source="newatlas" target="eenewsautomotive">
+  <data key="d0">38</data>
+</edge>
+<edge source="newatlas" target="eco-business">
+  <data key="d0">174</data>
+</edge>
+<edge source="newatlas" target="japantimes">
+  <data key="d0">170</data>
+</edge>
+<edge source="newatlas" target="thefintechtimes">
+  <data key="d0">130</data>
+</edge>
+<edge source="newatlas" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="newatlas" target="esgclarity">
+  <data key="d0">172</data>
+</edge>
+<edge source="newatlas" target="med-technews">
+  <data key="d0">256</data>
+</edge>
+<edge source="newatlas" target="hbr">
+  <data key="d0">228</data>
+</edge>
+<edge source="newatlas" target="just-auto">
+  <data key="d0">26</data>
+</edge>
+<edge source="newatlas" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="newatlas" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="newatlas" target="greenbiz">
+  <data key="d0">186</data>
+</edge>
+<edge source="newatlas" target="autonews">
+  <data key="d0">44</data>
+</edge>
+<edge source="newatlas" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="globalbankingandfinance" target="sciencedaily">
+  <data key="d0">1358</data>
+</edge>
+<edge source="globalbankingandfinance" target="theatlantic">
+  <data key="d0">1034</data>
+</edge>
+<edge source="globalbankingandfinance" target="independent">
+  <data key="d0">444</data>
+</edge>
+<edge source="globalbankingandfinance" target="fiercebiotech">
+  <data key="d0">412</data>
+</edge>
+<edge source="globalbankingandfinance" target="techcrunch">
+  <data key="d0">1420</data>
+</edge>
+<edge source="globalbankingandfinance" target="venturebeat">
+  <data key="d0">1710</data>
+</edge>
+<edge source="globalbankingandfinance" target="morningstar">
+  <data key="d0">938</data>
+</edge>
+<edge source="globalbankingandfinance" target="fool">
+  <data key="d0">2496</data>
+</edge>
+<edge source="globalbankingandfinance" target="engadget">
+  <data key="d0">332</data>
+</edge>
+<edge source="globalbankingandfinance" target="newyorker">
+  <data key="d0">376</data>
+</edge>
+<edge source="globalbankingandfinance" target="inc">
+  <data key="d0">1284</data>
+</edge>
+<edge source="globalbankingandfinance" target="materialstoday">
+  <data key="d0">142</data>
+</edge>
+<edge source="globalbankingandfinance" target="finsmes">
+  <data key="d0">250</data>
+</edge>
+<edge source="globalbankingandfinance" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="globalbankingandfinance" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="globalbankingandfinance" target="computerweekly">
+  <data key="d0">326</data>
+</edge>
+<edge source="globalbankingandfinance" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="globalbankingandfinance" target="eco-business">
+  <data key="d0">292</data>
+</edge>
+<edge source="globalbankingandfinance" target="japantimes">
+  <data key="d0">290</data>
+</edge>
+<edge source="globalbankingandfinance" target="thefintechtimes">
+  <data key="d0">766</data>
+</edge>
+<edge source="globalbankingandfinance" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="globalbankingandfinance" target="esgclarity">
+  <data key="d0">360</data>
+</edge>
+<edge source="globalbankingandfinance" target="med-technews">
+  <data key="d0">388</data>
+</edge>
+<edge source="globalbankingandfinance" target="hbr">
+  <data key="d0">530</data>
+</edge>
+<edge source="globalbankingandfinance" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="globalbankingandfinance" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="globalbankingandfinance" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="globalbankingandfinance" target="greenbiz">
+  <data key="d0">376</data>
+</edge>
+<edge source="globalbankingandfinance" target="autonews">
+  <data key="d0">108</data>
+</edge>
+<edge source="globalbankingandfinance" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="sciencedaily" target="theatlantic">
+  <data key="d0">742</data>
+</edge>
+<edge source="sciencedaily" target="independent">
+  <data key="d0">408</data>
+</edge>
+<edge source="sciencedaily" target="fiercebiotech">
+  <data key="d0">400</data>
+</edge>
+<edge source="sciencedaily" target="techcrunch">
+  <data key="d0">562</data>
+</edge>
+<edge source="sciencedaily" target="venturebeat">
+  <data key="d0">412</data>
+</edge>
+<edge source="sciencedaily" target="morningstar">
+  <data key="d0">160</data>
+</edge>
+<edge source="sciencedaily" target="fool">
+  <data key="d0">642</data>
+</edge>
+<edge source="sciencedaily" target="engadget">
+  <data key="d0">176</data>
+</edge>
+<edge source="sciencedaily" target="newyorker">
+  <data key="d0">264</data>
+</edge>
+<edge source="sciencedaily" target="inc">
+  <data key="d0">474</data>
+</edge>
+<edge source="sciencedaily" target="materialstoday">
+  <data key="d0">78</data>
+</edge>
+<edge source="sciencedaily" target="finsmes">
+  <data key="d0">142</data>
+</edge>
+<edge source="sciencedaily" target="news.crunchbase">
+  <data key="d0">124</data>
+</edge>
+<edge source="sciencedaily" target="bioworld">
+  <data key="d0">412</data>
+</edge>
+<edge source="sciencedaily" target="computerweekly">
+  <data key="d0">226</data>
+</edge>
+<edge source="sciencedaily" target="eenewsautomotive">
+  <data key="d0">32</data>
+</edge>
+<edge source="sciencedaily" target="eco-business">
+  <data key="d0">228</data>
+</edge>
+<edge source="sciencedaily" target="japantimes">
+  <data key="d0">170</data>
+</edge>
+<edge source="sciencedaily" target="thefintechtimes">
+  <data key="d0">106</data>
+</edge>
+<edge source="sciencedaily" target="altassets">
+  <data key="d0">40</data>
+</edge>
+<edge source="sciencedaily" target="esgclarity">
+  <data key="d0">176</data>
+</edge>
+<edge source="sciencedaily" target="med-technews">
+  <data key="d0">308</data>
+</edge>
+<edge source="sciencedaily" target="hbr">
+  <data key="d0">380</data>
+</edge>
+<edge source="sciencedaily" target="just-auto">
+  <data key="d0">20</data>
+</edge>
+<edge source="sciencedaily" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="sciencedaily" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="sciencedaily" target="greenbiz">
+  <data key="d0">220</data>
+</edge>
+<edge source="sciencedaily" target="autonews">
+  <data key="d0">32</data>
+</edge>
+<edge source="sciencedaily" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="theatlantic" target="independent">
+  <data key="d0">422</data>
+</edge>
+<edge source="theatlantic" target="fiercebiotech">
+  <data key="d0">384</data>
+</edge>
+<edge source="theatlantic" target="techcrunch">
+  <data key="d0">650</data>
+</edge>
+<edge source="theatlantic" target="venturebeat">
+  <data key="d0">522</data>
+</edge>
+<edge source="theatlantic" target="morningstar">
+  <data key="d0">152</data>
+</edge>
+<edge source="theatlantic" target="fool">
+  <data key="d0">728</data>
+</edge>
+<edge source="theatlantic" target="engadget">
+  <data key="d0">220</data>
+</edge>
+<edge source="theatlantic" target="newyorker">
+  <data key="d0">844</data>
+</edge>
+<edge source="theatlantic" target="inc">
+  <data key="d0">930</data>
+</edge>
+<edge source="theatlantic" target="materialstoday">
+  <data key="d0">62</data>
+</edge>
+<edge source="theatlantic" target="finsmes">
+  <data key="d0">126</data>
+</edge>
+<edge source="theatlantic" target="news.crunchbase">
+  <data key="d0">116</data>
+</edge>
+<edge source="theatlantic" target="bioworld">
+  <data key="d0">396</data>
+</edge>
+<edge source="theatlantic" target="computerweekly">
+  <data key="d0">216</data>
+</edge>
+<edge source="theatlantic" target="eenewsautomotive">
+  <data key="d0">30</data>
+</edge>
+<edge source="theatlantic" target="eco-business">
+  <data key="d0">254</data>
+</edge>
+<edge source="theatlantic" target="japantimes">
+  <data key="d0">314</data>
+</edge>
+<edge source="theatlantic" target="thefintechtimes">
+  <data key="d0">96</data>
+</edge>
+<edge source="theatlantic" target="altassets">
+  <data key="d0">34</data>
+</edge>
+<edge source="theatlantic" target="esgclarity">
+  <data key="d0">160</data>
+</edge>
+<edge source="theatlantic" target="med-technews">
+  <data key="d0">290</data>
+</edge>
+<edge source="theatlantic" target="hbr">
+  <data key="d0">408</data>
+</edge>
+<edge source="theatlantic" target="just-auto">
+  <data key="d0">20</data>
+</edge>
+<edge source="theatlantic" target="emerj">
+  <data key="d0">28</data>
+</edge>
+<edge source="theatlantic" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="theatlantic" target="greenbiz">
+  <data key="d0">242</data>
+</edge>
+<edge source="theatlantic" target="autonews">
+  <data key="d0">42</data>
+</edge>
+<edge source="theatlantic" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="independent" target="fiercebiotech">
+  <data key="d0">234</data>
+</edge>
+<edge source="independent" target="techcrunch">
+  <data key="d0">430</data>
+</edge>
+<edge source="independent" target="venturebeat">
+  <data key="d0">356</data>
+</edge>
+<edge source="independent" target="morningstar">
+  <data key="d0">148</data>
+</edge>
+<edge source="independent" target="fool">
+  <data key="d0">388</data>
+</edge>
+<edge source="independent" target="engadget">
+  <data key="d0">168</data>
+</edge>
+<edge source="independent" target="newyorker">
+  <data key="d0">272</data>
+</edge>
+<edge source="independent" target="inc">
+  <data key="d0">370</data>
+</edge>
+<edge source="independent" target="materialstoday">
+  <data key="d0">62</data>
+</edge>
+<edge source="independent" target="finsmes">
+  <data key="d0">124</data>
+</edge>
+<edge source="independent" target="news.crunchbase">
+  <data key="d0">104</data>
+</edge>
+<edge source="independent" target="bioworld">
+  <data key="d0">228</data>
+</edge>
+<edge source="independent" target="computerweekly">
+  <data key="d0">206</data>
+</edge>
+<edge source="independent" target="eenewsautomotive">
+  <data key="d0">30</data>
+</edge>
+<edge source="independent" target="eco-business">
+  <data key="d0">222</data>
+</edge>
+<edge source="independent" target="japantimes">
+  <data key="d0">184</data>
+</edge>
+<edge source="independent" target="thefintechtimes">
+  <data key="d0">90</data>
+</edge>
+<edge source="independent" target="altassets">
+  <data key="d0">26</data>
+</edge>
+<edge source="independent" target="esgclarity">
+  <data key="d0">160</data>
+</edge>
+<edge source="independent" target="med-technews">
+  <data key="d0">286</data>
+</edge>
+<edge source="independent" target="hbr">
+  <data key="d0">260</data>
+</edge>
+<edge source="independent" target="just-auto">
+  <data key="d0">20</data>
+</edge>
+<edge source="independent" target="emerj">
+  <data key="d0">12</data>
+</edge>
+<edge source="independent" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="independent" target="greenbiz">
+  <data key="d0">212</data>
+</edge>
+<edge source="independent" target="autonews">
+  <data key="d0">34</data>
+</edge>
+<edge source="independent" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="fiercebiotech" target="techcrunch">
+  <data key="d0">324</data>
+</edge>
+<edge source="fiercebiotech" target="venturebeat">
+  <data key="d0">194</data>
+</edge>
+<edge source="fiercebiotech" target="morningstar">
+  <data key="d0">126</data>
+</edge>
+<edge source="fiercebiotech" target="fool">
+  <data key="d0">412</data>
+</edge>
+<edge source="fiercebiotech" target="engadget">
+  <data key="d0">96</data>
+</edge>
+<edge source="fiercebiotech" target="newyorker">
+  <data key="d0">84</data>
+</edge>
+<edge source="fiercebiotech" target="inc">
+  <data key="d0">214</data>
+</edge>
+<edge source="fiercebiotech" target="materialstoday">
+  <data key="d0">86</data>
+</edge>
+<edge source="fiercebiotech" target="finsmes">
+  <data key="d0">134</data>
+</edge>
+<edge source="fiercebiotech" target="news.crunchbase">
+  <data key="d0">94</data>
+</edge>
+<edge source="fiercebiotech" target="bioworld">
+  <data key="d0">402</data>
+</edge>
+<edge source="fiercebiotech" target="computerweekly">
+  <data key="d0">72</data>
+</edge>
+<edge source="fiercebiotech" target="eenewsautomotive">
+  <data key="d0">34</data>
+</edge>
+<edge source="fiercebiotech" target="eco-business">
+  <data key="d0">88</data>
+</edge>
+<edge source="fiercebiotech" target="japantimes">
+  <data key="d0">68</data>
+</edge>
+<edge source="fiercebiotech" target="thefintechtimes">
+  <data key="d0">60</data>
+</edge>
+<edge source="fiercebiotech" target="altassets">
+  <data key="d0">40</data>
+</edge>
+<edge source="fiercebiotech" target="esgclarity">
+  <data key="d0">66</data>
+</edge>
+<edge source="fiercebiotech" target="med-technews">
+  <data key="d0">154</data>
+</edge>
+<edge source="fiercebiotech" target="hbr">
+  <data key="d0">120</data>
+</edge>
+<edge source="fiercebiotech" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="fiercebiotech" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="fiercebiotech" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="fiercebiotech" target="greenbiz">
+  <data key="d0">80</data>
+</edge>
+<edge source="fiercebiotech" target="autonews">
+  <data key="d0">30</data>
+</edge>
+<edge source="fiercebiotech" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="techcrunch" target="venturebeat">
+  <data key="d0">1200</data>
+</edge>
+<edge source="techcrunch" target="morningstar">
+  <data key="d0">900</data>
+</edge>
+<edge source="techcrunch" target="fool">
+  <data key="d0">1290</data>
+</edge>
+<edge source="techcrunch" target="engadget">
+  <data key="d0">332</data>
+</edge>
+<edge source="techcrunch" target="newyorker">
+  <data key="d0">344</data>
+</edge>
+<edge source="techcrunch" target="inc">
+  <data key="d0">1038</data>
+</edge>
+<edge source="techcrunch" target="materialstoday">
+  <data key="d0">82</data>
+</edge>
+<edge source="techcrunch" target="finsmes">
+  <data key="d0">232</data>
+</edge>
+<edge source="techcrunch" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="techcrunch" target="bioworld">
+  <data key="d0">330</data>
+</edge>
+<edge source="techcrunch" target="computerweekly">
+  <data key="d0">320</data>
+</edge>
+<edge source="techcrunch" target="eenewsautomotive">
+  <data key="d0">48</data>
+</edge>
+<edge source="techcrunch" target="eco-business">
+  <data key="d0">278</data>
+</edge>
+<edge source="techcrunch" target="japantimes">
+  <data key="d0">282</data>
+</edge>
+<edge source="techcrunch" target="thefintechtimes">
+  <data key="d0">746</data>
+</edge>
+<edge source="techcrunch" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="techcrunch" target="esgclarity">
+  <data key="d0">336</data>
+</edge>
+<edge source="techcrunch" target="med-technews">
+  <data key="d0">362</data>
+</edge>
+<edge source="techcrunch" target="hbr">
+  <data key="d0">446</data>
+</edge>
+<edge source="techcrunch" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="techcrunch" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="techcrunch" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="techcrunch" target="greenbiz">
+  <data key="d0">364</data>
+</edge>
+<edge source="techcrunch" target="autonews">
+  <data key="d0">96</data>
+</edge>
+<edge source="techcrunch" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="venturebeat" target="morningstar">
+  <data key="d0">864</data>
+</edge>
+<edge source="venturebeat" target="fool">
+  <data key="d0">1612</data>
+</edge>
+<edge source="venturebeat" target="engadget">
+  <data key="d0">362</data>
+</edge>
+<edge source="venturebeat" target="newyorker">
+  <data key="d0">358</data>
+</edge>
+<edge source="venturebeat" target="inc">
+  <data key="d0">1006</data>
+</edge>
+<edge source="venturebeat" target="materialstoday">
+  <data key="d0">92</data>
+</edge>
+<edge source="venturebeat" target="finsmes">
+  <data key="d0">242</data>
+</edge>
+<edge source="venturebeat" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="venturebeat" target="bioworld">
+  <data key="d0">200</data>
+</edge>
+<edge source="venturebeat" target="computerweekly">
+  <data key="d0">322</data>
+</edge>
+<edge source="venturebeat" target="eenewsautomotive">
+  <data key="d0">48</data>
+</edge>
+<edge source="venturebeat" target="eco-business">
+  <data key="d0">288</data>
+</edge>
+<edge source="venturebeat" target="japantimes">
+  <data key="d0">294</data>
+</edge>
+<edge source="venturebeat" target="thefintechtimes">
+  <data key="d0">748</data>
+</edge>
+<edge source="venturebeat" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="venturebeat" target="esgclarity">
+  <data key="d0">342</data>
+</edge>
+<edge source="venturebeat" target="med-technews">
+  <data key="d0">372</data>
+</edge>
+<edge source="venturebeat" target="hbr">
+  <data key="d0">434</data>
+</edge>
+<edge source="venturebeat" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="venturebeat" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="venturebeat" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="venturebeat" target="greenbiz">
+  <data key="d0">374</data>
+</edge>
+<edge source="venturebeat" target="autonews">
+  <data key="d0">70</data>
+</edge>
+<edge source="venturebeat" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="morningstar" target="fool">
+  <data key="d0">950</data>
+</edge>
+<edge source="morningstar" target="engadget">
+  <data key="d0">264</data>
+</edge>
+<edge source="morningstar" target="newyorker">
+  <data key="d0">112</data>
+</edge>
+<edge source="morningstar" target="inc">
+  <data key="d0">678</data>
+</edge>
+<edge source="morningstar" target="materialstoday">
+  <data key="d0">116</data>
+</edge>
+<edge source="morningstar" target="finsmes">
+  <data key="d0">236</data>
+</edge>
+<edge source="morningstar" target="news.crunchbase">
+  <data key="d0">610</data>
+</edge>
+<edge source="morningstar" target="bioworld">
+  <data key="d0">150</data>
+</edge>
+<edge source="morningstar" target="computerweekly">
+  <data key="d0">200</data>
+</edge>
+<edge source="morningstar" target="eenewsautomotive">
+  <data key="d0">50</data>
+</edge>
+<edge source="morningstar" target="eco-business">
+  <data key="d0">138</data>
+</edge>
+<edge source="morningstar" target="japantimes">
+  <data key="d0">130</data>
+</edge>
+<edge source="morningstar" target="thefintechtimes">
+  <data key="d0">726</data>
+</edge>
+<edge source="morningstar" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="morningstar" target="esgclarity">
+  <data key="d0">268</data>
+</edge>
+<edge source="morningstar" target="med-technews">
+  <data key="d0">212</data>
+</edge>
+<edge source="morningstar" target="hbr">
+  <data key="d0">250</data>
+</edge>
+<edge source="morningstar" target="just-auto">
+  <data key="d0">48</data>
+</edge>
+<edge source="morningstar" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="morningstar" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="morningstar" target="greenbiz">
+  <data key="d0">226</data>
+</edge>
+<edge source="morningstar" target="autonews">
+  <data key="d0">104</data>
+</edge>
+<edge source="morningstar" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="fool" target="engadget">
+  <data key="d0">338</data>
+</edge>
+<edge source="fool" target="newyorker">
+  <data key="d0">326</data>
+</edge>
+<edge source="fool" target="inc">
+  <data key="d0">972</data>
+</edge>
+<edge source="fool" target="materialstoday">
+  <data key="d0">124</data>
+</edge>
+<edge source="fool" target="finsmes">
+  <data key="d0">246</data>
+</edge>
+<edge source="fool" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="fool" target="bioworld">
+  <data key="d0">474</data>
+</edge>
+<edge source="fool" target="computerweekly">
+  <data key="d0">282</data>
+</edge>
+<edge source="fool" target="eenewsautomotive">
+  <data key="d0">46</data>
+</edge>
+<edge source="fool" target="eco-business">
+  <data key="d0">256</data>
+</edge>
+<edge source="fool" target="japantimes">
+  <data key="d0">286</data>
+</edge>
+<edge source="fool" target="thefintechtimes">
+  <data key="d0">746</data>
+</edge>
+<edge source="fool" target="altassets">
+  <data key="d0">44</data>
+</edge>
+<edge source="fool" target="esgclarity">
+  <data key="d0">340</data>
+</edge>
+<edge source="fool" target="med-technews">
+  <data key="d0">324</data>
+</edge>
+<edge source="fool" target="hbr">
+  <data key="d0">328</data>
+</edge>
+<edge source="fool" target="just-auto">
+  <data key="d0">46</data>
+</edge>
+<edge source="fool" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="fool" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="fool" target="greenbiz">
+  <data key="d0">346</data>
+</edge>
+<edge source="fool" target="autonews">
+  <data key="d0">110</data>
+</edge>
+<edge source="fool" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="engadget" target="newyorker">
+  <data key="d0">166</data>
+</edge>
+<edge source="engadget" target="inc">
+  <data key="d0">316</data>
+</edge>
+<edge source="engadget" target="materialstoday">
+  <data key="d0">80</data>
+</edge>
+<edge source="engadget" target="finsmes">
+  <data key="d0">200</data>
+</edge>
+<edge source="engadget" target="news.crunchbase">
+  <data key="d0">242</data>
+</edge>
+<edge source="engadget" target="bioworld">
+  <data key="d0">104</data>
+</edge>
+<edge source="engadget" target="computerweekly">
+  <data key="d0">234</data>
+</edge>
+<edge source="engadget" target="eenewsautomotive">
+  <data key="d0">48</data>
+</edge>
+<edge source="engadget" target="eco-business">
+  <data key="d0">170</data>
+</edge>
+<edge source="engadget" target="japantimes">
+  <data key="d0">208</data>
+</edge>
+<edge source="engadget" target="thefintechtimes">
+  <data key="d0">218</data>
+</edge>
+<edge source="engadget" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="engadget" target="esgclarity">
+  <data key="d0">250</data>
+</edge>
+<edge source="engadget" target="med-technews">
+  <data key="d0">218</data>
+</edge>
+<edge source="engadget" target="hbr">
+  <data key="d0">268</data>
+</edge>
+<edge source="engadget" target="just-auto">
+  <data key="d0">40</data>
+</edge>
+<edge source="engadget" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="engadget" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="engadget" target="greenbiz">
+  <data key="d0">262</data>
+</edge>
+<edge source="engadget" target="autonews">
+  <data key="d0">56</data>
+</edge>
+<edge source="engadget" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="newyorker" target="inc">
+  <data key="d0">394</data>
+</edge>
+<edge source="newyorker" target="materialstoday">
+  <data key="d0">36</data>
+</edge>
+<edge source="newyorker" target="finsmes">
+  <data key="d0">96</data>
+</edge>
+<edge source="newyorker" target="news.crunchbase">
+  <data key="d0">92</data>
+</edge>
+<edge source="newyorker" target="bioworld">
+  <data key="d0">80</data>
+</edge>
+<edge source="newyorker" target="computerweekly">
+  <data key="d0">188</data>
+</edge>
+<edge source="newyorker" target="eenewsautomotive">
+  <data key="d0">12</data>
+</edge>
+<edge source="newyorker" target="eco-business">
+  <data key="d0">226</data>
+</edge>
+<edge source="newyorker" target="japantimes">
+  <data key="d0">226</data>
+</edge>
+<edge source="newyorker" target="thefintechtimes">
+  <data key="d0">70</data>
+</edge>
+<edge source="newyorker" target="altassets">
+  <data key="d0">10</data>
+</edge>
+<edge source="newyorker" target="esgclarity">
+  <data key="d0">136</data>
+</edge>
+<edge source="newyorker" target="med-technews">
+  <data key="d0">240</data>
+</edge>
+<edge source="newyorker" target="hbr">
+  <data key="d0">252</data>
+</edge>
+<edge source="newyorker" target="just-auto">
+  <data key="d0">4</data>
+</edge>
+<edge source="newyorker" target="emerj">
+  <data key="d0">4</data>
+</edge>
+<edge source="newyorker" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="newyorker" target="greenbiz">
+  <data key="d0">216</data>
+</edge>
+<edge source="newyorker" target="autonews">
+  <data key="d0">20</data>
+</edge>
+<edge source="newyorker" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="inc" target="materialstoday">
+  <data key="d0">92</data>
+</edge>
+<edge source="inc" target="finsmes">
+  <data key="d0">238</data>
+</edge>
+<edge source="inc" target="news.crunchbase">
+  <data key="d0">622</data>
+</edge>
+<edge source="inc" target="bioworld">
+  <data key="d0">224</data>
+</edge>
+<edge source="inc" target="computerweekly">
+  <data key="d0">322</data>
+</edge>
+<edge source="inc" target="eenewsautomotive">
+  <data key="d0">42</data>
+</edge>
+<edge source="inc" target="eco-business">
+  <data key="d0">284</data>
+</edge>
+<edge source="inc" target="japantimes">
+  <data key="d0">262</data>
+</edge>
+<edge source="inc" target="thefintechtimes">
+  <data key="d0">600</data>
+</edge>
+<edge source="inc" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="inc" target="esgclarity">
+  <data key="d0">338</data>
+</edge>
+<edge source="inc" target="med-technews">
+  <data key="d0">372</data>
+</edge>
+<edge source="inc" target="hbr">
+  <data key="d0">514</data>
+</edge>
+<edge source="inc" target="just-auto">
+  <data key="d0">32</data>
+</edge>
+<edge source="inc" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="inc" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="inc" target="greenbiz">
+  <data key="d0">372</data>
+</edge>
+<edge source="inc" target="autonews">
+  <data key="d0">52</data>
+</edge>
+<edge source="inc" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="materialstoday" target="finsmes">
+  <data key="d0">98</data>
+</edge>
+<edge source="materialstoday" target="news.crunchbase">
+  <data key="d0">74</data>
+</edge>
+<edge source="materialstoday" target="bioworld">
+  <data key="d0">118</data>
+</edge>
+<edge source="materialstoday" target="computerweekly">
+  <data key="d0">64</data>
+</edge>
+<edge source="materialstoday" target="eenewsautomotive">
+  <data key="d0">34</data>
+</edge>
+<edge source="materialstoday" target="eco-business">
+  <data key="d0">82</data>
+</edge>
+<edge source="materialstoday" target="japantimes">
+  <data key="d0">56</data>
+</edge>
+<edge source="materialstoday" target="thefintechtimes">
+  <data key="d0">72</data>
+</edge>
+<edge source="materialstoday" target="altassets">
+  <data key="d0">38</data>
+</edge>
+<edge source="materialstoday" target="esgclarity">
+  <data key="d0">74</data>
+</edge>
+<edge source="materialstoday" target="med-technews">
+  <data key="d0">106</data>
+</edge>
+<edge source="materialstoday" target="hbr">
+  <data key="d0">94</data>
+</edge>
+<edge source="materialstoday" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="materialstoday" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="materialstoday" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="materialstoday" target="greenbiz">
+  <data key="d0">70</data>
+</edge>
+<edge source="materialstoday" target="autonews">
+  <data key="d0">24</data>
+</edge>
+<edge source="materialstoday" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="finsmes" target="news.crunchbase">
+  <data key="d0">194</data>
+</edge>
+<edge source="finsmes" target="bioworld">
+  <data key="d0">152</data>
+</edge>
+<edge source="finsmes" target="computerweekly">
+  <data key="d0">164</data>
+</edge>
+<edge source="finsmes" target="eenewsautomotive">
+  <data key="d0">38</data>
+</edge>
+<edge source="finsmes" target="eco-business">
+  <data key="d0">108</data>
+</edge>
+<edge source="finsmes" target="japantimes">
+  <data key="d0">82</data>
+</edge>
+<edge source="finsmes" target="thefintechtimes">
+  <data key="d0">162</data>
+</edge>
+<edge source="finsmes" target="altassets">
+  <data key="d0">42</data>
+</edge>
+<edge source="finsmes" target="esgclarity">
+  <data key="d0">166</data>
+</edge>
+<edge source="finsmes" target="med-technews">
+  <data key="d0">210</data>
+</edge>
+<edge source="finsmes" target="hbr">
+  <data key="d0">218</data>
+</edge>
+<edge source="finsmes" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="finsmes" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="finsmes" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="finsmes" target="greenbiz">
+  <data key="d0">180</data>
+</edge>
+<edge source="finsmes" target="autonews">
+  <data key="d0">28</data>
+</edge>
+<edge source="finsmes" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="news.crunchbase" target="bioworld">
+  <data key="d0">106</data>
+</edge>
+<edge source="news.crunchbase" target="computerweekly">
+  <data key="d0">178</data>
+</edge>
+<edge source="news.crunchbase" target="eenewsautomotive">
+  <data key="d0">40</data>
+</edge>
+<edge source="news.crunchbase" target="eco-business">
+  <data key="d0">112</data>
+</edge>
+<edge source="news.crunchbase" target="japantimes">
+  <data key="d0">98</data>
+</edge>
+<edge source="news.crunchbase" target="thefintechtimes">
+  <data key="d0">574</data>
+</edge>
+<edge source="news.crunchbase" target="altassets">
+  <data key="d0">38</data>
+</edge>
+<edge source="news.crunchbase" target="esgclarity">
+  <data key="d0">250</data>
+</edge>
+<edge source="news.crunchbase" target="med-technews">
+  <data key="d0">182</data>
+</edge>
+<edge source="news.crunchbase" target="hbr">
+  <data key="d0">220</data>
+</edge>
+<edge source="news.crunchbase" target="just-auto">
+  <data key="d0">28</data>
+</edge>
+<edge source="news.crunchbase" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="news.crunchbase" target="biospace">
+  <data key="d0">22</data>
+</edge>
+<edge source="news.crunchbase" target="greenbiz">
+  <data key="d0">204</data>
+</edge>
+<edge source="news.crunchbase" target="autonews">
+  <data key="d0">32</data>
+</edge>
+<edge source="news.crunchbase" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="bioworld" target="computerweekly">
+  <data key="d0">78</data>
+</edge>
+<edge source="bioworld" target="eenewsautomotive">
+  <data key="d0">30</data>
+</edge>
+<edge source="bioworld" target="eco-business">
+  <data key="d0">84</data>
+</edge>
+<edge source="bioworld" target="japantimes">
+  <data key="d0">60</data>
+</edge>
+<edge source="bioworld" target="thefintechtimes">
+  <data key="d0">70</data>
+</edge>
+<edge source="bioworld" target="altassets">
+  <data key="d0">36</data>
+</edge>
+<edge source="bioworld" target="esgclarity">
+  <data key="d0">74</data>
+</edge>
+<edge source="bioworld" target="med-technews">
+  <data key="d0">172</data>
+</edge>
+<edge source="bioworld" target="hbr">
+  <data key="d0">126</data>
+</edge>
+<edge source="bioworld" target="just-auto">
+  <data key="d0">18</data>
+</edge>
+<edge source="bioworld" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="bioworld" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="bioworld" target="greenbiz">
+  <data key="d0">88</data>
+</edge>
+<edge source="bioworld" target="autonews">
+  <data key="d0">24</data>
+</edge>
+<edge source="bioworld" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="computerweekly" target="eenewsautomotive">
+  <data key="d0">34</data>
+</edge>
+<edge source="computerweekly" target="eco-business">
+  <data key="d0">232</data>
+</edge>
+<edge source="computerweekly" target="japantimes">
+  <data key="d0">156</data>
+</edge>
+<edge source="computerweekly" target="thefintechtimes">
+  <data key="d0">198</data>
+</edge>
+<edge source="computerweekly" target="altassets">
+  <data key="d0">38</data>
+</edge>
+<edge source="computerweekly" target="esgclarity">
+  <data key="d0">266</data>
+</edge>
+<edge source="computerweekly" target="med-technews">
+  <data key="d0">270</data>
+</edge>
+<edge source="computerweekly" target="hbr">
+  <data key="d0">312</data>
+</edge>
+<edge source="computerweekly" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="computerweekly" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="computerweekly" target="biospace">
+  <data key="d0">6</data>
+</edge>
+<edge source="computerweekly" target="greenbiz">
+  <data key="d0">304</data>
+</edge>
+<edge source="computerweekly" target="autonews">
+  <data key="d0">32</data>
+</edge>
+<edge source="computerweekly" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="eenewsautomotive" target="eco-business">
+  <data key="d0">38</data>
+</edge>
+<edge source="eenewsautomotive" target="japantimes">
+  <data key="d0">36</data>
+</edge>
+<edge source="eenewsautomotive" target="thefintechtimes">
+  <data key="d0">34</data>
+</edge>
+<edge source="eenewsautomotive" target="altassets">
+  <data key="d0">30</data>
+</edge>
+<edge source="eenewsautomotive" target="esgclarity">
+  <data key="d0">34</data>
+</edge>
+<edge source="eenewsautomotive" target="med-technews">
+  <data key="d0">36</data>
+</edge>
+<edge source="eenewsautomotive" target="hbr">
+  <data key="d0">36</data>
+</edge>
+<edge source="eenewsautomotive" target="just-auto">
+  <data key="d0">36</data>
+</edge>
+<edge source="eenewsautomotive" target="emerj">
+  <data key="d0">22</data>
+</edge>
+<edge source="eenewsautomotive" target="biospace">
+  <data key="d0">2</data>
+</edge>
+<edge source="eenewsautomotive" target="greenbiz">
+  <data key="d0">44</data>
+</edge>
+<edge source="eenewsautomotive" target="autonews">
+  <data key="d0">34</data>
+</edge>
+<edge source="eenewsautomotive" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="eco-business" target="japantimes">
+  <data key="d0">202</data>
+</edge>
+<edge source="eco-business" target="thefintechtimes">
+  <data key="d0">122</data>
+</edge>
+<edge source="eco-business" target="altassets">
+  <data key="d0">40</data>
+</edge>
+<edge source="eco-business" target="esgclarity">
+  <data key="d0">190</data>
+</edge>
+<edge source="eco-business" target="med-technews">
+  <data key="d0">228</data>
+</edge>
+<edge source="eco-business" target="hbr">
+  <data key="d0">236</data>
+</edge>
+<edge source="eco-business" target="just-auto">
+  <data key="d0">26</data>
+</edge>
+<edge source="eco-business" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="eco-business" target="biospace">
+  <data key="d0">16</data>
+</edge>
+<edge source="eco-business" target="greenbiz">
+  <data key="d0">276</data>
+</edge>
+<edge source="eco-business" target="autonews">
+  <data key="d0">32</data>
+</edge>
+<edge source="eco-business" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="japantimes" target="thefintechtimes">
+  <data key="d0">98</data>
+</edge>
+<edge source="japantimes" target="altassets">
+  <data key="d0">40</data>
+</edge>
+<edge source="japantimes" target="esgclarity">
+  <data key="d0">140</data>
+</edge>
+<edge source="japantimes" target="med-technews">
+  <data key="d0">144</data>
+</edge>
+<edge source="japantimes" target="hbr">
+  <data key="d0">160</data>
+</edge>
+<edge source="japantimes" target="just-auto">
+  <data key="d0">26</data>
+</edge>
+<edge source="japantimes" target="emerj">
+  <data key="d0">26</data>
+</edge>
+<edge source="japantimes" target="biospace">
+  <data key="d0">20</data>
+</edge>
+<edge source="japantimes" target="greenbiz">
+  <data key="d0">194</data>
+</edge>
+<edge source="japantimes" target="autonews">
+  <data key="d0">46</data>
+</edge>
+<edge source="japantimes" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="thefintechtimes" target="altassets">
+  <data key="d0">36</data>
+</edge>
+<edge source="thefintechtimes" target="esgclarity">
+  <data key="d0">290</data>
+</edge>
+<edge source="thefintechtimes" target="med-technews">
+  <data key="d0">176</data>
+</edge>
+<edge source="thefintechtimes" target="hbr">
+  <data key="d0">218</data>
+</edge>
+<edge source="thefintechtimes" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="thefintechtimes" target="emerj">
+  <data key="d0">28</data>
+</edge>
+<edge source="thefintechtimes" target="biospace">
+  <data key="d0">2</data>
+</edge>
+<edge source="thefintechtimes" target="greenbiz">
+  <data key="d0">206</data>
+</edge>
+<edge source="thefintechtimes" target="autonews">
+  <data key="d0">22</data>
+</edge>
+<edge source="altassets" target="esgclarity">
+  <data key="d0">36</data>
+</edge>
+<edge source="altassets" target="med-technews">
+  <data key="d0">38</data>
+</edge>
+<edge source="altassets" target="hbr">
+  <data key="d0">38</data>
+</edge>
+<edge source="altassets" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="altassets" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="altassets" target="biospace">
+  <data key="d0">4</data>
+</edge>
+<edge source="altassets" target="greenbiz">
+  <data key="d0">42</data>
+</edge>
+<edge source="altassets" target="autonews">
+  <data key="d0">28</data>
+</edge>
+<edge source="altassets" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="esgclarity" target="med-technews">
+  <data key="d0">232</data>
+</edge>
+<edge source="esgclarity" target="hbr">
+  <data key="d0">282</data>
+</edge>
+<edge source="esgclarity" target="just-auto">
+  <data key="d0">22</data>
+</edge>
+<edge source="esgclarity" target="emerj">
+  <data key="d0">28</data>
+</edge>
+<edge source="esgclarity" target="biospace">
+  <data key="d0">2</data>
+</edge>
+<edge source="esgclarity" target="greenbiz">
+  <data key="d0">276</data>
+</edge>
+<edge source="esgclarity" target="autonews">
+  <data key="d0">26</data>
+</edge>
+<edge source="med-technews" target="hbr">
+  <data key="d0">338</data>
+</edge>
+<edge source="med-technews" target="just-auto">
+  <data key="d0">22</data>
+</edge>
+<edge source="med-technews" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="med-technews" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="med-technews" target="greenbiz">
+  <data key="d0">266</data>
+</edge>
+<edge source="med-technews" target="autonews">
+  <data key="d0">22</data>
+</edge>
+<edge source="med-technews" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+<edge source="hbr" target="just-auto">
+  <data key="d0">24</data>
+</edge>
+<edge source="hbr" target="emerj">
+  <data key="d0">30</data>
+</edge>
+<edge source="hbr" target="biospace">
+  <data key="d0">24</data>
+</edge>
+<edge source="hbr" target="greenbiz">
+  <data key="d0">308</data>
+</edge>
+<edge source="hbr" target="autonews">
+  <data key="d0">30</data>
+</edge>
+<edge source="hbr" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="just-auto" target="emerj">
+  <data key="d0">16</data>
+</edge>
+<edge source="just-auto" target="greenbiz">
+  <data key="d0">32</data>
+</edge>
+<edge source="just-auto" target="autonews">
+  <data key="d0">42</data>
+</edge>
+<edge source="emerj" target="biospace">
+  <data key="d0">2</data>
+</edge>
+<edge source="emerj" target="greenbiz">
+  <data key="d0">30</data>
+</edge>
+<edge source="emerj" target="autonews">
+  <data key="d0">20</data>
+</edge>
+<edge source="emerj" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="biospace" target="greenbiz">
+  <data key="d0">10</data>
+</edge>
+<edge source="biospace" target="autonews">
+  <data key="d0">2</data>
+</edge>
+<edge source="biospace" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="greenbiz" target="autonews">
+  <data key="d0">40</data>
+</edge>
+<edge source="greenbiz" target="businessinsider">
+  <data key="d0">2</data>
+</edge>
+<edge source="autonews" target="businessinsider">
+  <data key="d0">4</data>
+</edge>
+</graph></graphml>
